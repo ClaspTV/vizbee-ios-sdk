@@ -31,8 +31,16 @@ typedef NS_ENUM(NSUInteger, VZBVideoTextTrackSubtype) {
                          trackType: (VZBVideoTrackType) trackType
                        textSubtype: (VZBVideoTextTrackSubtype) trackTextSubtype
                               name: (NSString*) name
+                      languageCode: (NSString*) languageCode;
+
+-(instancetype) initWithIdentifier: (NSInteger) identifier
+                 contentIdentifier: (NSString*) contentIdOrUrl
+                       contentType: (NSString*) contentType
+                         trackType: (VZBVideoTrackType) trackType
+                       textSubtype: (VZBVideoTextTrackSubtype) trackTextSubtype
+                              name: (NSString*) name
                       languageCode: (NSString*) languageCode
-                        customData: (NSString*) customData;
+                        customData: (NSString*) customData __attribute__((deprecated));
 
 -(void) copy:(VZBVideoTrackInfo*) src;
 

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		5bRI9FHYkcosTpVokEN+dsiLh7k=
+		6UsjokbtBdxtWURtvjvdz3ro8ds=
 		</data>
 		<key>DeviceUtil.bundle/DeviceList.plist</key>
 		<data>
@@ -14,11 +14,11 @@
 		</data>
 		<key>DeviceUtil.bundle/Info.plist</key>
 		<data>
-		c620d8gSjeORVv2NINKkaYLszgQ=
+		TtW4kMmKLUuabW4HzUV068exLDs=
 		</data>
 		<key>DeviceUtil.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		3UqCg1SU3hrx6BYaKRhetzIo9AM=
+		wW5hWXJSI1kKyybqm86UuZmWZog=
 		</data>
 		<key>DeviceUtil.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>DeviceUtil.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		mBSqS7sTk+zAenSnGo2aqhoc40E=
+		g6iXkDD1Nn/eVPSP/YROrEwonXE=
 		</data>
 		<key>DeviceUtil.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -146,7 +146,7 @@
 		</data>
 		<key>Headers/VZBVideoTrackInfo.h</key>
 		<data>
-		ZfUmx5zkg1M7Apgv+xOBBnNbvYc=
+		/j5jnQ3t0PckPryohokXSDHqyLE=
 		</data>
 		<key>Headers/VZBVolumeClient.h</key>
 		<data>
@@ -162,7 +162,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		JZNVyq85wP7B9q6NuqfzIMITHIQ=
+		L+qFBl+7FvShVTJe83HcCKFxJQ4=
 		</data>
 		<key>JSONSchema.json</key>
 		<data>
@@ -266,7 +266,7 @@
 		</data>
 		<key>VZBSplitLayer.nib</key>
 		<data>
-		Zx/U+/7ScXphmx3g5Nc7nidFtlY=
+		wAF9mfIuhUQzYrdERPQ+EEaFLi0=
 		</data>
 		<key>VZBStyleableAppInstallViewController.nib</key>
 		<data>
@@ -282,7 +282,7 @@
 		</data>
 		<key>VZBTitledDevicePickerTableView.nib</key>
 		<data>
-		bzjvNepi8ZQhW2kYCIdlqg3Srb0=
+		imwThT0fWY8OfJBZ/IEW0MylLX0=
 		</data>
 		<key>VZBTitledImageView.nib</key>
 		<data>
@@ -339,11 +339,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5bRI9FHYkcosTpVokEN+dsiLh7k=
+			6UsjokbtBdxtWURtvjvdz3ro8ds=
 			</data>
 			<key>hash2</key>
 			<data>
-			nm5bQibTY5+ErxQdCj/nXJ2NcFwVH9G2US5d+bELEEc=
+			jLSPvLHgWE35PffGAdiYp3IKQ7uI/RoNi4+Wnh/nP1g=
 			</data>
 		</dict>
 		<key>DeviceUtil.bundle/DeviceList.plist</key>
@@ -361,22 +361,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			c620d8gSjeORVv2NINKkaYLszgQ=
+			TtW4kMmKLUuabW4HzUV068exLDs=
 			</data>
 			<key>hash2</key>
 			<data>
-			xwMmEPvovd4cazPLndr8zYOsekC8lIhzd4W5kh0282c=
+			G9F+Zecyh9tiwe+uOP6QsEbk7IWE5WR1sQpIqqWqbFY=
 			</data>
 		</dict>
 		<key>DeviceUtil.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3UqCg1SU3hrx6BYaKRhetzIo9AM=
+			wW5hWXJSI1kKyybqm86UuZmWZog=
 			</data>
 			<key>hash2</key>
 			<data>
-			NSD1pUeEqg/nLHmco6rbdRMj2dXV+i6v4d118muOGrc=
+			2UqReMY6VrNuH+CZac087HElxPvUrr5FPYy7Qf4ACSY=
 			</data>
 		</dict>
 		<key>DeviceUtil.bundle/_CodeSignature/CodeRequirements</key>
@@ -394,11 +394,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mBSqS7sTk+zAenSnGo2aqhoc40E=
+			g6iXkDD1Nn/eVPSP/YROrEwonXE=
 			</data>
 			<key>hash2</key>
 			<data>
-			1IPsEbbyMLbZxAqP1ejBPj9CW3AiHNNFvVS9dqNutTY=
+			Do7FejcQPGrt67PfjD47519ZvGJ4uuvu0blwiGhLXgc=
 			</data>
 		</dict>
 		<key>DeviceUtil.bundle/_CodeSignature/CodeResources</key>
@@ -724,11 +724,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZfUmx5zkg1M7Apgv+xOBBnNbvYc=
+			/j5jnQ3t0PckPryohokXSDHqyLE=
 			</data>
 			<key>hash2</key>
 			<data>
-			UXeVPkTA3Xd2GnFoV1CcOUG3pergqKbWW62yYVUoFHg=
+			vHeczmWJjLKCHdnFB6vIRTbHaMgq6MsldS25Q+C4Fx0=
 			</data>
 		</dict>
 		<key>Headers/VZBVolumeClient.h</key>
@@ -1043,11 +1043,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Zx/U+/7ScXphmx3g5Nc7nidFtlY=
+			wAF9mfIuhUQzYrdERPQ+EEaFLi0=
 			</data>
 			<key>hash2</key>
 			<data>
-			j4IGIaesOMO1zkRfmHvzRxS2VPSyIYSMm9ThNh7j2ls=
+			WchoceY6X/pBDSe8txMUICimZIlehIf8FaZwsdmzUAE=
 			</data>
 		</dict>
 		<key>VZBStyleableAppInstallViewController.nib</key>
@@ -1087,11 +1087,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bzjvNepi8ZQhW2kYCIdlqg3Srb0=
+			imwThT0fWY8OfJBZ/IEW0MylLX0=
 			</data>
 			<key>hash2</key>
 			<data>
-			KMlNtbiThT3JO7vmSQ5h/uCHypriYPtqAz+72L9c7V4=
+			m6hOLKUS6uHG0YLcoo5aSC0fYYTQIYpQyoAU4+DDBmc=
 			</data>
 		</dict>
 		<key>VZBTitledImageView.nib</key>
