@@ -28,6 +28,12 @@ typedef NS_ENUM(NSInteger, VZBCastButtonType) {
 @property (nonatomic, strong) UIColor *disconnectedColor;
 @property (nonatomic, strong) UIColor *connectedColor;
 
+@property (nonatomic, strong) NSString *notConnectedImageName;
+@property (nonatomic, strong) NSString *connecting0ImageName;
+@property (nonatomic, strong) NSString *connecting1ImageName;
+@property (nonatomic, strong) NSString *connecting2ImageName;
+@property (nonatomic, strong) NSString *connectedImageName;
+
 -(void) performTap;
 
 -(void) performTapWithViewController:(UIViewController *)viewController;
