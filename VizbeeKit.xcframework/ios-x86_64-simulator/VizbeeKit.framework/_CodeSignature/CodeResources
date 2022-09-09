@@ -162,7 +162,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		z36kdINw5QI+9/QMXM+hXMW5UfA=
+		dfH4zVv3lgkIiZ31idRvnc7jGFw=
 		</data>
 		<key>JSONSchema.json</key>
 		<data>
@@ -327,10 +327,6 @@
 		<key>VZBViewSeparator.nib</key>
 		<data>
 		YhLgHBz9u0wfaXM4WZvfyDqfjKo=
-		</data>
-		<key>mdns.md</key>
-		<data>
-		ohhAu747i9QM7hfZ/NaGarNcQC4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -1213,17 +1209,6 @@
 			<key>hash2</key>
 			<data>
 			Gqt3gGE3zs0dbGN6yp+KKmUHDWUpSnFWhDFP0e7gth0=
-			</data>
-		</dict>
-		<key>mdns.md</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ohhAu747i9QM7hfZ/NaGarNcQC4=
-			</data>
-			<key>hash2</key>
-			<data>
-			rqbVdw0djk/lVRyEpNkK1FgxWWAZhuis8SNTpYcWwGg=
 			</data>
 		</dict>
 	</dict>
