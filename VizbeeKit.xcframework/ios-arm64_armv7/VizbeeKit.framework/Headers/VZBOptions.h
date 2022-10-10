@@ -28,6 +28,11 @@
 @property (nonatomic, strong) VZBLayoutsConfig * _Nullable layoutsConfig;
 
 /**
+ * creates a new UIWindow and shows all Vizbee cards at a specified window level.
+ */
+@property (nonatomic, assign) UIWindowLevel useVizbeeUIWindowAtLevel;
+
+/**
  * Optional delegate set for apps which support authentication
  */
 @property (nonatomic, strong) id<VZBAuthenticationDelegate> _Nullable authenticationDelegate;
