@@ -21,6 +21,8 @@
 
 - (void)stop;
 
+- (void)setActiveTracks:(NSArray<VZBVideoTrackInfo*>*) tracks;
+
 - (VZBVideoStatus *)getVideoStatus;
 
 - (void)addVideoStatusDelegate:(id<VZBVideoStatusUpdateDelegate>)delegate;

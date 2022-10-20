@@ -11,3 +11,4 @@
 - (instancetype)initWithDevice:(VZBDeviceInstance *)device;
 
 @end
+

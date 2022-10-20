@@ -94,7 +94,7 @@
 		</data>
 		<key>Headers/VZBScreenInfo.h</key>
 		<data>
-		SUj7qOO8z01WyVjaSPW31R+E/FQ=
+		LtxbSxgI/p5U7NSPhDxDPToyxSY=
 		</data>
 		<key>Headers/VZBScreenType.h</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>Headers/VZBVideoClient.h</key>
 		<data>
-		hpPOWMD0hUmb3CYCXstcDVPiPUw=
+		3CMpQn6aE0sBfj88KRAQi4vAnyI=
 		</data>
 		<key>Headers/VZBVideoMetadata.h</key>
 		<data>
@@ -138,7 +138,7 @@
 		</data>
 		<key>Headers/VZBVideoStatus.h</key>
 		<data>
-		Xn+bc7iLxDWz32Y3vR/Wwxzh9w4=
+		oC11NvWcT4nL8AR2Hyz8MQZP9lE=
 		</data>
 		<key>Headers/VZBVideoStreamInfo.h</key>
 		<data>
@@ -147,6 +147,10 @@
 		<key>Headers/VZBVideoTrackInfo.h</key>
 		<data>
 		/j5jnQ3t0PckPryohokXSDHqyLE=
+		</data>
+		<key>Headers/VZBVideoTrackStatus.h</key>
+		<data>
+		61aqYDinzcADsIlrRRWPwy0V9lc=
 		</data>
 		<key>Headers/VZBVolumeClient.h</key>
 		<data>
@@ -158,11 +162,11 @@
 		</data>
 		<key>Headers/VizbeeKit.h</key>
 		<data>
-		7vz5VUyeiS055eNSU9rws1yENwc=
+		/4f1axgI+dDXyKQw9B11eW+IyUQ=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		iAYZsQ9o7aIHN3L/kfUljrUMqqc=
+		/pX+oW7D7cnFVrNVH2Lh/ZEmH5U=
 		</data>
 		<key>JSONSchema.json</key>
 		<data>
@@ -577,11 +581,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SUj7qOO8z01WyVjaSPW31R+E/FQ=
+			LtxbSxgI/p5U7NSPhDxDPToyxSY=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ls+FAKyWaHzTDSov7vcd/cZKlhvd+SmqOVZXC+iQjuw=
+			AHKKnyvLewZWvphfTs34PUoPvRrs7tRjtZAw927wum4=
 			</data>
 		</dict>
 		<key>Headers/VZBScreenType.h</key>
@@ -676,11 +680,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hpPOWMD0hUmb3CYCXstcDVPiPUw=
+			3CMpQn6aE0sBfj88KRAQi4vAnyI=
 			</data>
 			<key>hash2</key>
 			<data>
-			KpASNXBuEmlMX+zQzJZNOa6to2VBBwL/D9MbF8j+niQ=
+			phxHn2tqDoWkIuJOMkCC3z1bChM+Y13JeC0gKthkGP4=
 			</data>
 		</dict>
 		<key>Headers/VZBVideoMetadata.h</key>
@@ -698,11 +702,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Xn+bc7iLxDWz32Y3vR/Wwxzh9w4=
+			oC11NvWcT4nL8AR2Hyz8MQZP9lE=
 			</data>
 			<key>hash2</key>
 			<data>
-			fIWZOibLvqFtw17zT5gj200V5RvUF8J5L5pi7LfYrGw=
+			r0lUPTzuhHxQ40QjUc+R41T1cuhh4twy9frcdd72wqc=
 			</data>
 		</dict>
 		<key>Headers/VZBVideoStreamInfo.h</key>
@@ -725,6 +729,17 @@
 			<key>hash2</key>
 			<data>
 			vHeczmWJjLKCHdnFB6vIRTbHaMgq6MsldS25Q+C4Fx0=
+			</data>
+		</dict>
+		<key>Headers/VZBVideoTrackStatus.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			61aqYDinzcADsIlrRRWPwy0V9lc=
+			</data>
+			<key>hash2</key>
+			<data>
+			jwsYkj2zObUs6b5r/lSLaHv01uVbeaf7PluJUZ46yXs=
 			</data>
 		</dict>
 		<key>Headers/VZBVolumeClient.h</key>
@@ -753,11 +768,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7vz5VUyeiS055eNSU9rws1yENwc=
+			/4f1axgI+dDXyKQw9B11eW+IyUQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			EiODi4M59UQsQ8l0QiTM6fb5lx8KOhY/BW6zaRaygZk=
+			kCAlOTKMZYk716y1eSpxpbruPrFlolOn3pYTZnwzj9o=
 			</data>
 		</dict>
 		<key>JSONSchema.json</key>

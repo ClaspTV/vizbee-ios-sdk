@@ -43,6 +43,7 @@ FOUNDATION_EXPORT const unsigned char VizbeeKitVersionString[];
 #import <VizbeeKit/VZBSessionManager.h>
 #import <VizbeeKit/VZBVideoClient.h>
 #import <VizbeeKit/VZBVideoStatus.h>
+#import <VizbeeKit/VZBVideoTrackStatus.h>
 #import <VizbeeKit/VZBVolumeClient.h>
 
 #import <VizbeeKit/VZBAnalyticsManager.h>
