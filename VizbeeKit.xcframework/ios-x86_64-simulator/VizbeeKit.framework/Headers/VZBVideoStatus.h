@@ -27,7 +27,7 @@ typedef NS_ENUM(NSUInteger, VZBVideoPlayerState) {
 @property (nonatomic, assign, readonly) BOOL isStreamLive;
 @property (nonatomic, assign, readonly) BOOL isAdPlaying;
 @property (nonatomic, assign, readonly) VZBVideoPlayerState playerState;
-@property (nonatomic, assign, readonly) VZBVideoTrackStatus* trackStatus;
+@property (nonatomic, assign, readonly) VZBVideoTrackStatus*_Nullable trackStatus;
 
 - (instancetype _Nonnull )initWithGuid:(NSString*_Nullable)guid
                        title:(NSString*_Nullable)title
@@ -40,6 +40,6 @@ typedef NS_ENUM(NSUInteger, VZBVideoPlayerState) {
                 isStreamLive:(BOOL)isStreamLive
                 isAdPlaying:(BOOL)isAdPlaying
                  playerState:(VZBVideoPlayerState)playerState
-            trackStatus:(VZBVideoTrackStatus*)trackStatus;
+            trackStatus:(VZBVideoTrackStatus*_Nullable)trackStatus;
 
 @end

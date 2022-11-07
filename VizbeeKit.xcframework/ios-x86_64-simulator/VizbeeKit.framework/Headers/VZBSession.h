@@ -7,11 +7,11 @@
 
 @interface VZBSession : NSObject
 
-@property (nonatomic, readonly, strong) VZBScreen* vizbeeScreen;
-@property (nonatomic, readonly, strong) VZBVolumeClient* volumeClient;
-@property (nonatomic, readonly, strong) VZBVideoClient* videoClient;
+@property (nonatomic, readonly, strong, nonnull) VZBScreen* vizbeeScreen;
+@property (nonatomic, readonly, strong, nonnull) VZBVolumeClient* volumeClient;
+@property (nonatomic, readonly, strong, nonnull) VZBVideoClient* videoClient;
 
-- (instancetype)initWithDevice:(VZBDeviceInstance *)device;
+- (nonnull instancetype)initWithDevice:(nonnull VZBDeviceInstance *)device;
 
 /**
  * @brief Sends a custom message to receiver device.
