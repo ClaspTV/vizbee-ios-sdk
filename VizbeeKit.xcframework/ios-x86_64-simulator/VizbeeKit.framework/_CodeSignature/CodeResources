@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		E/53bC4XFEaETU4NWjdAG6rygCo=
+		k2SgrlFWRQAYbW1nCNe63Qe+zfA=
 		</data>
 		<key>DeviceUtil.bundle/DeviceList.plist</key>
 		<data>
@@ -14,27 +14,7 @@
 		</data>
 		<key>DeviceUtil.bundle/Info.plist</key>
 		<data>
-		TtW4kMmKLUuabW4HzUV068exLDs=
-		</data>
-		<key>DeviceUtil.bundle/_CodeSignature/CodeDirectory</key>
-		<data>
-		wW5hWXJSI1kKyybqm86UuZmWZog=
-		</data>
-		<key>DeviceUtil.bundle/_CodeSignature/CodeRequirements</key>
-		<data>
-		OnX22wWFKRSOFN1+obRynMCeyXM=
-		</data>
-		<key>DeviceUtil.bundle/_CodeSignature/CodeRequirements-1</key>
-		<data>
-		g6iXkDD1Nn/eVPSP/YROrEwonXE=
-		</data>
-		<key>DeviceUtil.bundle/_CodeSignature/CodeResources</key>
-		<data>
-		ug8JjKrS67TxgIIoIX+gZrLQqso=
-		</data>
-		<key>DeviceUtil.bundle/_CodeSignature/CodeSignature</key>
-		<data>
-		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		RuUuqx/a6AEm4VmixT/QmukgiMc=
 		</data>
 		<key>Headers/VZBAnalyticsManager.h</key>
 		<data>
@@ -166,7 +146,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		n+R1eBL8epep50lt3vQd8U9jKhs=
+		atA7g1TBq6ag8i7IBdIJybTHpBM=
 		</data>
 		<key>JSONSchema.json</key>
 		<data>
@@ -182,11 +162,11 @@
 		</data>
 		<key>VZBAdminPanel.storyboardc/0F4-g5-9D1-view-Kt7-Jr-JEF.nib</key>
 		<data>
-		7PME8ZDMWoTgOKN9ufNgUOY3o8Q=
+		6W9+MYYsG70tCzndKygJIgtrX3s=
 		</data>
 		<key>VZBAdminPanel.storyboardc/2QQ-si-iAk-view-06J-A6-4cg.nib</key>
 		<data>
-		NNxex6VA6jKPEIVhufa0Smh44Cg=
+		FEl0W9t43Phzef/MXiSifoeod0U=
 		</data>
 		<key>VZBAdminPanel.storyboardc/AdminPanel.nib</key>
 		<data>
@@ -194,11 +174,11 @@
 		</data>
 		<key>VZBAdminPanel.storyboardc/DcW-9J-ViX-view-d0l-30-6nS.nib</key>
 		<data>
-		qYvmqAMGsqpM5zjQr4BPMKjCVq0=
+		M4ecotw2kitWT7hFkfjEfS3Fr/w=
 		</data>
 		<key>VZBAdminPanel.storyboardc/H73-VF-8nC-view-1VM-t6-1Rg.nib</key>
 		<data>
-		8d8whDD5dOpqdXvsy6eNr2hdWcQ=
+		YwEN9uo8Q3T4ZaM7JJMF1DaAhsc=
 		</data>
 		<key>VZBAdminPanel.storyboardc/Info.plist</key>
 		<data>
@@ -234,19 +214,19 @@
 		</data>
 		<key>VZBDeviceInfoTableViewCell.nib</key>
 		<data>
-		VmA8jcWF9pz7utT31xzwEycMSUY=
+		2uhhRtpvec7Y/km7+i/qrLXn1Qw=
 		</data>
 		<key>VZBDevicePickerTableView.nib</key>
 		<data>
-		eZyiCtLUz9wrbrY6jzuKMYD5jJA=
+		KWq4Kue1mGYwbBfXXQHmV6aZL04=
 		</data>
 		<key>VZBDeviceStatusView.nib</key>
 		<data>
-		e/GX419oDxeOi94g2ipXSZwH3fo=
+		fwh60kJS5dWEv9qe7p5yVpHZIQ0=
 		</data>
 		<key>VZBManualAppInstallViewController.nib</key>
 		<data>
-		L473t6xraUnO+FCaHqgUWxIhGeo=
+		NJ5Z1paSC8hWaZj8Pzykh6crOok=
 		</data>
 		<key>VZBOverlayLuminosityLayer.nib</key>
 		<data>
@@ -254,15 +234,15 @@
 		</data>
 		<key>VZBPairingViewController.nib</key>
 		<data>
-		2zg/OpV0OtNoDII6p1MTysDWixw=
+		E3WlnbbtbP99I3w0wnDmZpujFSU=
 		</data>
 		<key>VZBPlayPauseButton.nib</key>
 		<data>
-		GXf8LhLYX0wnitc/ilWYVcGt8Cg=
+		HeFF3qrgmfTuV3iSHIDYeDjzf2Y=
 		</data>
 		<key>VZBPlaybackControlsView.nib</key>
 		<data>
-		E+1M78XLKJfFsRhoSbTqrz/u4s4=
+		hfK6BvUnetDeq8bvA2+o3jk0e+c=
 		</data>
 		<key>VZBSplashCardViewController.nib</key>
 		<data>
@@ -270,15 +250,15 @@
 		</data>
 		<key>VZBSplitLayer.nib</key>
 		<data>
-		wAF9mfIuhUQzYrdERPQ+EEaFLi0=
+		SZK5XR2idGbxecsnbzqkFM8xATM=
 		</data>
 		<key>VZBStyleableAppInstallViewController.nib</key>
 		<data>
-		+aBYgN9qSD/e1eV37xndEFi4/v4=
+		Y3lFB2wROgEaitW8Sc0TDDtr3x0=
 		</data>
 		<key>VZBStyleableAppInstallViewControllerV2.nib</key>
 		<data>
-		u3MyKKfIBD/8EZE9I5NjolfuQY0=
+		VGdaZVX70svjl6KEkMSBvjIDolk=
 		</data>
 		<key>VZBStyleableSwitchVideoViewController.nib</key>
 		<data>
@@ -286,11 +266,11 @@
 		</data>
 		<key>VZBTitledDevicePickerTableView.nib</key>
 		<data>
-		imwThT0fWY8OfJBZ/IEW0MylLX0=
+		X/gngx5Y6OMKUGoz6GZbqwX7P5w=
 		</data>
 		<key>VZBTitledImageView.nib</key>
 		<data>
-		fBocFCuAPCpX4Fx8SRrbYej8XV4=
+		CFiRW+vdTaoYgteMlJECDGEw7cA=
 		</data>
 		<key>VZBUICastViews.storyboardc/Info.plist</key>
 		<data>
@@ -298,7 +278,7 @@
 		</data>
 		<key>VZBUICastViews.storyboardc/MainCastContainer.nib</key>
 		<data>
-		AAIZilOHbPXq+7FXvO7qljujSwI=
+		3+FYXWazfFUNmh0C0ka8KcQ7pRQ=
 		</data>
 		<key>VZBUICastViews.storyboardc/MiniCastContainer.nib</key>
 		<data>
@@ -318,7 +298,7 @@
 		</data>
 		<key>VZBUICastViews.storyboardc/qEX-8k-yp5-view-fSo-JK-TCu.nib</key>
 		<data>
-		TTVIVo40VRqjSZZAMnGiSn6x76U=
+		YBu8fCsTiqaT3eFUZ416QryJfzo=
 		</data>
 		<key>VZBVideoControlSlider.nib</key>
 		<data>
@@ -339,11 +319,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			E/53bC4XFEaETU4NWjdAG6rygCo=
+			k2SgrlFWRQAYbW1nCNe63Qe+zfA=
 			</data>
 			<key>hash2</key>
 			<data>
-			zkAFEG8pifvDQZ8L6+Fr2vcf2Ft35kUVhf22hGDayrE=
+			F4bXvtzg0gFZNrzOAmvwJ/tYmyyDjXbfW4nyetzYjDY=
 			</data>
 		</dict>
 		<key>DeviceUtil.bundle/DeviceList.plist</key>
@@ -361,66 +341,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TtW4kMmKLUuabW4HzUV068exLDs=
+			RuUuqx/a6AEm4VmixT/QmukgiMc=
 			</data>
 			<key>hash2</key>
 			<data>
-			G9F+Zecyh9tiwe+uOP6QsEbk7IWE5WR1sQpIqqWqbFY=
-			</data>
-		</dict>
-		<key>DeviceUtil.bundle/_CodeSignature/CodeDirectory</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wW5hWXJSI1kKyybqm86UuZmWZog=
-			</data>
-			<key>hash2</key>
-			<data>
-			2UqReMY6VrNuH+CZac087HElxPvUrr5FPYy7Qf4ACSY=
-			</data>
-		</dict>
-		<key>DeviceUtil.bundle/_CodeSignature/CodeRequirements</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			OnX22wWFKRSOFN1+obRynMCeyXM=
-			</data>
-			<key>hash2</key>
-			<data>
-			mHkgkE6rZQ51eIwFSqCwUk5qgL/HGqMt+NI3phdD+YY=
-			</data>
-		</dict>
-		<key>DeviceUtil.bundle/_CodeSignature/CodeRequirements-1</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			g6iXkDD1Nn/eVPSP/YROrEwonXE=
-			</data>
-			<key>hash2</key>
-			<data>
-			Do7FejcQPGrt67PfjD47519ZvGJ4uuvu0blwiGhLXgc=
-			</data>
-		</dict>
-		<key>DeviceUtil.bundle/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ug8JjKrS67TxgIIoIX+gZrLQqso=
-			</data>
-			<key>hash2</key>
-			<data>
-			DZ5NxPGKahtT9qKNbLGSG3WIBmHblvcs4xeCU/0RRRU=
-			</data>
-		</dict>
-		<key>DeviceUtil.bundle/_CodeSignature/CodeSignature</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
-			</data>
-			<key>hash2</key>
-			<data>
-			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			4x8AzTMmf3hDH2kRsaA6QKJ3AYfo2MtexPvMwGK4gig=
 			</data>
 		</dict>
 		<key>Headers/VZBAnalyticsManager.h</key>
@@ -812,22 +737,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7PME8ZDMWoTgOKN9ufNgUOY3o8Q=
+			6W9+MYYsG70tCzndKygJIgtrX3s=
 			</data>
 			<key>hash2</key>
 			<data>
-			CavdxlN2rf4+vePnxpHqyvxBr/y32nnZ8njT53h71gc=
+			xRZyPeU8oRk5PQ/yYQiwgxGQ74xa0UEGTbgsJ2GNneo=
 			</data>
 		</dict>
 		<key>VZBAdminPanel.storyboardc/2QQ-si-iAk-view-06J-A6-4cg.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NNxex6VA6jKPEIVhufa0Smh44Cg=
+			FEl0W9t43Phzef/MXiSifoeod0U=
 			</data>
 			<key>hash2</key>
 			<data>
-			kMCLrXXH8Yp36O9sI3nW3RvA1ruvnjI1E+x81hqql+g=
+			tV757GyzsZzLHVVTpFQyrPOX+pCkbBXAe2lIAmIRYTg=
 			</data>
 		</dict>
 		<key>VZBAdminPanel.storyboardc/AdminPanel.nib</key>
@@ -845,22 +770,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qYvmqAMGsqpM5zjQr4BPMKjCVq0=
+			M4ecotw2kitWT7hFkfjEfS3Fr/w=
 			</data>
 			<key>hash2</key>
 			<data>
-			OnygYvD31FdKD5C8pDkjpjvbq2oaCtEhqAXVVufBaVQ=
+			Ek39b4PFdxmIqJvQ3EeC5DyYJ+1hDZrVoTznQfOUo0M=
 			</data>
 		</dict>
 		<key>VZBAdminPanel.storyboardc/H73-VF-8nC-view-1VM-t6-1Rg.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8d8whDD5dOpqdXvsy6eNr2hdWcQ=
+			YwEN9uo8Q3T4ZaM7JJMF1DaAhsc=
 			</data>
 			<key>hash2</key>
 			<data>
-			jXmGUZE+WIANuB1EAmoLL3WleHmq5t7lCR36I04J9BY=
+			ALuXharlBlKorszafPmhjmRCsdjzMdQuIZKPZBL7K/U=
 			</data>
 		</dict>
 		<key>VZBAdminPanel.storyboardc/Info.plist</key>
@@ -955,44 +880,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VmA8jcWF9pz7utT31xzwEycMSUY=
+			2uhhRtpvec7Y/km7+i/qrLXn1Qw=
 			</data>
 			<key>hash2</key>
 			<data>
-			W7NwCdEGZ6LP/RKFjmlRD4ALmzcJQzvshcYlkes4rSU=
+			s1SIdkZENvy766dNQ1KAlo+1yDgkMZTcRkwbUlI35gI=
 			</data>
 		</dict>
 		<key>VZBDevicePickerTableView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eZyiCtLUz9wrbrY6jzuKMYD5jJA=
+			KWq4Kue1mGYwbBfXXQHmV6aZL04=
 			</data>
 			<key>hash2</key>
 			<data>
-			dhonDpvPZX5b0XGv3zQGGRLl9vSXWeLifj57Tqn9lNE=
+			VG6xQu2BzKspA3q34Wtgk3FBfhYJK7DknKwYBHqzABw=
 			</data>
 		</dict>
 		<key>VZBDeviceStatusView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			e/GX419oDxeOi94g2ipXSZwH3fo=
+			fwh60kJS5dWEv9qe7p5yVpHZIQ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			BWmfo3A3wEaIRDI5E39lMuN/uY6+bWx6KsHMxyriaNU=
+			3Q0mrhTyRwiGAR7f4MWplxGuYEv+WhScD3bld+o3swU=
 			</data>
 		</dict>
 		<key>VZBManualAppInstallViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			L473t6xraUnO+FCaHqgUWxIhGeo=
+			NJ5Z1paSC8hWaZj8Pzykh6crOok=
 			</data>
 			<key>hash2</key>
 			<data>
-			gZaw2sjdflGtDWxGwB0+jRmDicf8Cp+F4SqOE7pnN7g=
+			f9zUjnJtCHRWWXwQ6TVkTnIKK9OddS7xZ70GZYrmcwg=
 			</data>
 		</dict>
 		<key>VZBOverlayLuminosityLayer.nib</key>
@@ -1010,33 +935,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2zg/OpV0OtNoDII6p1MTysDWixw=
+			E3WlnbbtbP99I3w0wnDmZpujFSU=
 			</data>
 			<key>hash2</key>
 			<data>
-			nyVPz87bVTCXxzTqkbuF9icZ0kI9XZDfZSBWD1Fo2G4=
+			r9zRcMpurSM840aRcvbz4qN2VNlLTvUF3dggnqS6jR0=
 			</data>
 		</dict>
 		<key>VZBPlayPauseButton.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GXf8LhLYX0wnitc/ilWYVcGt8Cg=
+			HeFF3qrgmfTuV3iSHIDYeDjzf2Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			WWy+aGLrhHovYnIQzi9kXSrlmmIgH53jCR/C+CqZCN4=
+			u/BIbTVZdvKhd9Rg4QNRcxVOs/8w2zERpnOWoq3Y4UI=
 			</data>
 		</dict>
 		<key>VZBPlaybackControlsView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			E+1M78XLKJfFsRhoSbTqrz/u4s4=
+			hfK6BvUnetDeq8bvA2+o3jk0e+c=
 			</data>
 			<key>hash2</key>
 			<data>
-			XjmUu0D6qquZp65q/Ic/zTl3HvMjNtssrP4ML5R2SnA=
+			lbVGda6JgXY4ZAnA0nuIxirKaUwc/wSxId1YHsZ2eZE=
 			</data>
 		</dict>
 		<key>VZBSplashCardViewController.nib</key>
@@ -1054,33 +979,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wAF9mfIuhUQzYrdERPQ+EEaFLi0=
+			SZK5XR2idGbxecsnbzqkFM8xATM=
 			</data>
 			<key>hash2</key>
 			<data>
-			WchoceY6X/pBDSe8txMUICimZIlehIf8FaZwsdmzUAE=
+			D/Ms+1zIJX0zCdUIQKAcrTDNkq9U2A+kChuea0znPUg=
 			</data>
 		</dict>
 		<key>VZBStyleableAppInstallViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+aBYgN9qSD/e1eV37xndEFi4/v4=
+			Y3lFB2wROgEaitW8Sc0TDDtr3x0=
 			</data>
 			<key>hash2</key>
 			<data>
-			ALgaXS3GqnVo/+Xl5ZRdsCbKnM54qA5DILbaqq5XdHE=
+			LfgvH9IlDBnbHjVL5OJ6y9VmuUfc/Hc+BN6Q9svkUYM=
 			</data>
 		</dict>
 		<key>VZBStyleableAppInstallViewControllerV2.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			u3MyKKfIBD/8EZE9I5NjolfuQY0=
+			VGdaZVX70svjl6KEkMSBvjIDolk=
 			</data>
 			<key>hash2</key>
 			<data>
-			RLK+x7B16LLIy+PQUzdbrWZJCCwkkuFQCPOWSqtMuDo=
+			LWxVzQD0TuzXCG50FYILcVoFxs6Ov5uPjEBfBEvkR6g=
 			</data>
 		</dict>
 		<key>VZBStyleableSwitchVideoViewController.nib</key>
@@ -1098,22 +1023,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			imwThT0fWY8OfJBZ/IEW0MylLX0=
+			X/gngx5Y6OMKUGoz6GZbqwX7P5w=
 			</data>
 			<key>hash2</key>
 			<data>
-			m6hOLKUS6uHG0YLcoo5aSC0fYYTQIYpQyoAU4+DDBmc=
+			h0LpISDBPvnohRXh+vCmPjizxIJ9/wbsm3cD8lHTRPs=
 			</data>
 		</dict>
 		<key>VZBTitledImageView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fBocFCuAPCpX4Fx8SRrbYej8XV4=
+			CFiRW+vdTaoYgteMlJECDGEw7cA=
 			</data>
 			<key>hash2</key>
 			<data>
-			dJ9XZD0PhkLFqCousLnZ2+wG8zZNOOAwSnmbmn8vEwQ=
+			3DVFU+rCdY40AOi9kQ6VbLQGimBX3X7x5XCT0VMrvLA=
 			</data>
 		</dict>
 		<key>VZBUICastViews.storyboardc/Info.plist</key>
@@ -1131,11 +1056,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AAIZilOHbPXq+7FXvO7qljujSwI=
+			3+FYXWazfFUNmh0C0ka8KcQ7pRQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			89lZlHCwlwAKiC56OqE6VMRwdV1QkFDwdFGcrLnePPE=
+			4ci0gAcYKO9HkrkzT0SofodIYnN8iOGaPWqsCM91g/Y=
 			</data>
 		</dict>
 		<key>VZBUICastViews.storyboardc/MiniCastContainer.nib</key>
@@ -1186,11 +1111,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TTVIVo40VRqjSZZAMnGiSn6x76U=
+			YBu8fCsTiqaT3eFUZ416QryJfzo=
 			</data>
 			<key>hash2</key>
 			<data>
-			MqdD4wdrBcD8A8LBA1qXDYzcDVT6fOavS6Uwbh8xQns=
+			ILUftvGNiJvo5y/x/AX0d+rFI1nR8CYUpc93YDQqCdw=
 			</data>
 		</dict>
 		<key>VZBVideoControlSlider.nib</key>
