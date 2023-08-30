@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/VZBAnalyticsManager.h</key>
 		<data>
-		Ir8rWdgOFcL40IFKw0hwgHeeq3o=
+		+E2rFqz3r8A2bBxokYhYUY654Ss=
 		</data>
 		<key>Headers/VZBAppAdapterDelegate.h</key>
 		<data>
@@ -88,6 +88,10 @@
 		<data>
 		8d24RxjBNbKdsFiNLl0A4OBoL/w=
 		</data>
+		<key>Headers/VZBSmartPlayOptions.h</key>
+		<data>
+		tItFMo7caZlTsZpyDPERLPOMoL8=
+		</data>
 		<key>Headers/VZBStatus.h</key>
 		<data>
 		0t/tfj///Bkdaxfc6MQ/4EprevA=
@@ -138,7 +142,7 @@
 		</data>
 		<key>Headers/Vizbee.h</key>
 		<data>
-		4OWCp6g4C5ahnBROCC4gF9Czkxs=
+		zdWJlCgYSI/5g+yhWtpi5HAissk=
 		</data>
 		<key>Headers/VizbeeKit.h</key>
 		<data>
@@ -146,7 +150,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		atA7g1TBq6ag8i7IBdIJybTHpBM=
+		nUUPtmrmY1SAl0ojpqdZSIkhJlM=
 		</data>
 		<key>JSONSchema.json</key>
 		<data>
@@ -250,7 +254,7 @@
 		</data>
 		<key>VZBSplitLayer.nib</key>
 		<data>
-		SZK5XR2idGbxecsnbzqkFM8xATM=
+		CNDT6VJHQFL3u8uaiuJAgR/VC6A=
 		</data>
 		<key>VZBStyleableAppInstallViewController.nib</key>
 		<data>
@@ -352,11 +356,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ir8rWdgOFcL40IFKw0hwgHeeq3o=
+			+E2rFqz3r8A2bBxokYhYUY654Ss=
 			</data>
 			<key>hash2</key>
 			<data>
-			5UIPlcC9CD37dfL7mkGdH7hK3e437lSnJ+SL5NGXShQ=
+			FvxZnx+Uv5KQq3kMdQTu+v2iK5Xr/Q/RMxd1wfQxh1A=
 			</data>
 		</dict>
 		<key>Headers/VZBAppAdapterDelegate.h</key>
@@ -546,6 +550,17 @@
 			f1fAuHPG8njaP4YEB4GC7kB1T6dUuoIEEPyCZOZFegQ=
 			</data>
 		</dict>
+		<key>Headers/VZBSmartPlayOptions.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tItFMo7caZlTsZpyDPERLPOMoL8=
+			</data>
+			<key>hash2</key>
+			<data>
+			WSdDrL0WBwIMOJy4+YVG3E7Ow8O2hVbPzXQiYgcymXo=
+			</data>
+		</dict>
 		<key>Headers/VZBStatus.h</key>
 		<dict>
 			<key>hash</key>
@@ -682,11 +697,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4OWCp6g4C5ahnBROCC4gF9Czkxs=
+			zdWJlCgYSI/5g+yhWtpi5HAissk=
 			</data>
 			<key>hash2</key>
 			<data>
-			G55iBwqcQ1BGdaQLwBd7+0Xce6v8rb1Rb8yPRnPFn5g=
+			dEgdoSuDp5AZbzWat6Gs9lbhQBCAFl5o+NL5Mc1JoPw=
 			</data>
 		</dict>
 		<key>Headers/VizbeeKit.h</key>
@@ -979,11 +994,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SZK5XR2idGbxecsnbzqkFM8xATM=
+			CNDT6VJHQFL3u8uaiuJAgR/VC6A=
 			</data>
 			<key>hash2</key>
 			<data>
-			D/Ms+1zIJX0zCdUIQKAcrTDNkq9U2A+kChuea0znPUg=
+			YB7a2EGNLBhgN0904hBI2YODfLaRynjIEdaxjxs9XXI=
 			</data>
 		</dict>
 		<key>VZBStyleableAppInstallViewController.nib</key>
