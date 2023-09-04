@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		k2SgrlFWRQAYbW1nCNe63Qe+zfA=
+		/1nB1Ozg53KGZHvCwR8UunS15Xo=
 		</data>
 		<key>DeviceUtil.bundle/DeviceList.plist</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>DeviceUtil.bundle/Info.plist</key>
 		<data>
-		RuUuqx/a6AEm4VmixT/QmukgiMc=
+		jaeYpgKX6ixbnwiIyjRdqhmix/I=
 		</data>
 		<key>Headers/VZBAnalyticsManager.h</key>
 		<data>
@@ -150,7 +150,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		nUUPtmrmY1SAl0ojpqdZSIkhJlM=
+		GKS42cshQwORdi2WhRbcPg/ev6c=
 		</data>
 		<key>JSONSchema.json</key>
 		<data>
@@ -323,11 +323,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			k2SgrlFWRQAYbW1nCNe63Qe+zfA=
+			/1nB1Ozg53KGZHvCwR8UunS15Xo=
 			</data>
 			<key>hash2</key>
 			<data>
-			F4bXvtzg0gFZNrzOAmvwJ/tYmyyDjXbfW4nyetzYjDY=
+			au61IRgGpfcz7M8oO02osh1V6iSfKk0Ae2ouHKbQWHI=
 			</data>
 		</dict>
 		<key>DeviceUtil.bundle/DeviceList.plist</key>
@@ -345,11 +345,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RuUuqx/a6AEm4VmixT/QmukgiMc=
+			jaeYpgKX6ixbnwiIyjRdqhmix/I=
 			</data>
 			<key>hash2</key>
 			<data>
-			4x8AzTMmf3hDH2kRsaA6QKJ3AYfo2MtexPvMwGK4gig=
+			+4nwGp0lZn768KfCYKf3xEu1S0fGPzzl8nfcs6kExsg=
 			</data>
 		</dict>
 		<key>Headers/VZBAnalyticsManager.h</key>
