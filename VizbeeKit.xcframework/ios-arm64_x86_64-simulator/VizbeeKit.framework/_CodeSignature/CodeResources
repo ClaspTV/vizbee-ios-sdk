@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		IdwTxXhZQmJbNZHfLfTuW0Cf4tc=
+		k8FKHR1FWgGiX7RjZ7e+ofLuhJw=
 		</data>
 		<key>DeviceUtil.bundle/DeviceList.plist</key>
 		<data>
@@ -14,7 +14,11 @@
 		</data>
 		<key>DeviceUtil.bundle/Info.plist</key>
 		<data>
-		R6Lhap/JJqQ79tm5bv3dy27PMsU=
+		Vszg8i/8FtsJPnydui1qKroDsp4=
+		</data>
+		<key>Headers/Logger.h</key>
+		<data>
+		bfXdN8wqx/5PU2YI55jqePBChkY=
 		</data>
 		<key>Headers/VZBAnalyticsManager.h</key>
 		<data>
@@ -47,6 +51,14 @@
 		<key>Headers/VZBCurrentVideoDelegate.h</key>
 		<data>
 		Uy17WAmeAxszydrgm8W1nItpzg0=
+		</data>
+		<key>Headers/VZBCustomEvent.h</key>
+		<data>
+		v/JdPB3WSdUBFRSrXO/hoxy0Gp4=
+		</data>
+		<key>Headers/VZBCustomEventHandler.h</key>
+		<data>
+		iG7RGx0u074LdoaG1iC4FVWoQ3w=
 		</data>
 		<key>Headers/VZBError.h</key>
 		<data>
@@ -82,7 +94,7 @@
 		</data>
 		<key>Headers/VZBSession.h</key>
 		<data>
-		UWbPZCXClMgExweN1xQ5G8bIla8=
+		aA4qbAyBBT55iRJt0w4upbE3T3w=
 		</data>
 		<key>Headers/VZBSessionManager.h</key>
 		<data>
@@ -146,11 +158,11 @@
 		</data>
 		<key>Headers/VizbeeKit.h</key>
 		<data>
-		/4f1axgI+dDXyKQw9B11eW+IyUQ=
+		VTYAaWROSXNeftkfLCHTEvUBGUM=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		9XoBBPWpG8I00GtiK1BUEnjrJQs=
+		mXaAI7Id8J57ivFgqH5rahSRJ0g=
 		</data>
 		<key>JSONSchema.json</key>
 		<data>
@@ -230,7 +242,7 @@
 		</data>
 		<key>VZBManualAppInstallViewController.nib</key>
 		<data>
-		YOENjSKxuIaI6XIwXiuLwMufUkw=
+		0hvU5YAyWOrMvfCdGvC4OL2ry38=
 		</data>
 		<key>VZBOverlayLuminosityLayer.nib</key>
 		<data>
@@ -238,7 +250,7 @@
 		</data>
 		<key>VZBPairingViewController.nib</key>
 		<data>
-		1ou04GokO3aWmydR5zHmKNOqOa8=
+		6TGqFhmVDlQj1HDHDkcXxPcYWbI=
 		</data>
 		<key>VZBPlayPauseButton.nib</key>
 		<data>
@@ -254,19 +266,19 @@
 		</data>
 		<key>VZBSplitLayer.nib</key>
 		<data>
-		9CirpRFRbxaXZeIEhu0I8siGOTo=
+		8EANEme8TUNAOa1WF6WYdq0FUSs=
 		</data>
 		<key>VZBStyleableAppInstallViewController.nib</key>
 		<data>
-		BTgJWcTrFDtjVKzfDlEPfxtSMUw=
+		/XHTvFZWdoMvCRdk2Emp4KWVUgU=
 		</data>
 		<key>VZBStyleableAppInstallViewControllerV2.nib</key>
 		<data>
-		7DIY9mklzPMUYeAv2non+NSxVNY=
+		2d9okYf9+j1XvzAWxljnuFivbo8=
 		</data>
 		<key>VZBStyleableSwitchVideoViewController.nib</key>
 		<data>
-		tWJlvMqpuOLrzpiIHTkisCTL53A=
+		y/UEdhJV0sOnTPGyrv0AQQ6sLGA=
 		</data>
 		<key>VZBTitledDevicePickerTableView.nib</key>
 		<data>
@@ -323,7 +335,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PvXO4/2nEZRTbxZoGE7OTujLPTtWffjHDpduQlwCYVQ=
+			oWa6VbRblJY0T37q+5YJ+RxyACAPmDCnmiVlz4Vx5qI=
 			</data>
 		</dict>
 		<key>DeviceUtil.bundle/DeviceList.plist</key>
@@ -337,7 +349,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			H46mP6Z14f/kwelWKIdZMvKRLGB7iaewhdee6N01WIA=
+			+bU0rqJBCh3GN1jFtxK2rgorQNaZ59cu3uGfy+rlKIw=
+			</data>
+		</dict>
+		<key>Headers/Logger.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			B3iurZqNvauqjV+J8/U4F0bFGL2lcNKvKMfypOwzw/Y=
 			</data>
 		</dict>
 		<key>Headers/VZBAnalyticsManager.h</key>
@@ -394,6 +413,20 @@
 			<key>hash2</key>
 			<data>
 			jfECGuS+hhlFK4UgJqpolrv95S7fegysm6zQOCYavZw=
+			</data>
+		</dict>
+		<key>Headers/VZBCustomEvent.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hdXBpMIbjzl3GffIcUECc34duvIcqlQGSsBz+cIK6CM=
+			</data>
+		</dict>
+		<key>Headers/VZBCustomEventHandler.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bJynb/oPBNkbA2QbExmvnt5BvKX9Y3B8x2OiMnCFJcA=
 			</data>
 		</dict>
 		<key>Headers/VZBError.h</key>
@@ -456,7 +489,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BbAUoe5RlXGWsClxGlzH0hqlDGAaORpZoYOeDBaKdCc=
+			i4FiPkvjNT7YcZ7MOAN4wILMSIPzb0XnhElYa9p/G3o=
 			</data>
 		</dict>
 		<key>Headers/VZBSessionManager.h</key>
@@ -568,7 +601,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kCAlOTKMZYk716y1eSpxpbruPrFlolOn3pYTZnwzj9o=
+			uuObO+eAyi+NZZ+4AKXA/C2APxQowicQVhX3ovxcUno=
 			</data>
 		</dict>
 		<key>JSONSchema.json</key>
@@ -708,7 +741,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Wg88wfM+5vm83FINHb7gpZ/QDCKr0vbSLUMRfe4zl/c=
+			Fgn9u+PIQ42bLanNHlwyg5c4TBjXE+tn1lLFSQj52Hc=
 			</data>
 		</dict>
 		<key>VZBOverlayLuminosityLayer.nib</key>
@@ -722,7 +755,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JY8jm59Nx0zVV8PP9NFcbcAIoR68TRpFTCZinNM0RYk=
+			KmBcRzCDS3ZhsX7T8o5onCE+/vnFfZq+9KdTYrHsOK0=
 			</data>
 		</dict>
 		<key>VZBPlayPauseButton.nib</key>
@@ -750,28 +783,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			V2xuSvjx3a2FbmJs/UpXuU3/54NY0xG5vTMF3sGH/T4=
+			629pmCxzXjJLywf61uzI+XU8Y4fwdykUwiO2DfBAfqg=
 			</data>
 		</dict>
 		<key>VZBStyleableAppInstallViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uhsr/SgO3z8WVGte/1Kac8V3RFQXwAi3CJUPJstaSf8=
+			P6GNAaZ3RuLuC0sG3a8OZxplG5W9reXfLnpnXwA2BPQ=
 			</data>
 		</dict>
 		<key>VZBStyleableAppInstallViewControllerV2.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Hru36rfXs94Qr9c3RkFLcEFT5O+b9ETs17auuswSuoQ=
+			c1fT/cEEhYqvjPtiI24i+r9JnF6QVCzf4G2sgaQbZU4=
 			</data>
 		</dict>
 		<key>VZBStyleableSwitchVideoViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GFfnt7vxWcgyDLKuWCmUbYlpf9o8urCxfw1idTuPiIo=
+			/dlfa0X6KGws01m7OgDjwsfKJcI4TTaZpwEr1Bw1ML0=
 			</data>
 		</dict>
 		<key>VZBTitledDevicePickerTableView.nib</key>
