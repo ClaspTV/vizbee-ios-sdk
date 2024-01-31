@@ -16,10 +16,6 @@
 		<data>
 		Vszg8i/8FtsJPnydui1qKroDsp4=
 		</data>
-		<key>Headers/Logger.h</key>
-		<data>
-		bfXdN8wqx/5PU2YI55jqePBChkY=
-		</data>
 		<key>Headers/VZBAnalyticsManager.h</key>
 		<data>
 		+E2rFqz3r8A2bBxokYhYUY654Ss=
@@ -67,6 +63,10 @@
 		<key>Headers/VZBLayoutsConfig.h</key>
 		<data>
 		b/Yg2IbmK6VWsNzGvOsIuWKSx1Y=
+		</data>
+		<key>Headers/VZBLogger.h</key>
+		<data>
+		lbdzJQY9rLNyf8nr/tbSeXRTS64=
 		</data>
 		<key>Headers/VZBNotificationUserInfo.h</key>
 		<data>
@@ -158,11 +158,11 @@
 		</data>
 		<key>Headers/VizbeeKit.h</key>
 		<data>
-		VTYAaWROSXNeftkfLCHTEvUBGUM=
+		RbXA44t8EwYZf88wz6kxDYQKBnA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		mXaAI7Id8J57ivFgqH5rahSRJ0g=
+		vWoepOnEu3E8eGqbOkRLT+KoJQo=
 		</data>
 		<key>JSONSchema.json</key>
 		<data>
@@ -352,13 +352,6 @@
 			+bU0rqJBCh3GN1jFtxK2rgorQNaZ59cu3uGfy+rlKIw=
 			</data>
 		</dict>
-		<key>Headers/Logger.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			B3iurZqNvauqjV+J8/U4F0bFGL2lcNKvKMfypOwzw/Y=
-			</data>
-		</dict>
 		<key>Headers/VZBAnalyticsManager.h</key>
 		<dict>
 			<key>hash2</key>
@@ -441,6 +434,13 @@
 			<key>hash2</key>
 			<data>
 			27CvEaRI5HlgyhdYTwVt2bVx4i51wZMrbDrJ6ndYnrs=
+			</data>
+		</dict>
+		<key>Headers/VZBLogger.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9WHHZzjlljSeScj/+mMwJJ0xNK1VnUbtgDIry3bgsRQ=
 			</data>
 		</dict>
 		<key>Headers/VZBNotificationUserInfo.h</key>
@@ -601,7 +601,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uuObO+eAyi+NZZ+4AKXA/C2APxQowicQVhX3ovxcUno=
+			D1puyCYXOHDv+z/ad55xvXb1DL/9qV4zaZzgHsXLkL0=
 			</data>
 		</dict>
 		<key>JSONSchema.json</key>

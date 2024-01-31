@@ -55,6 +55,4 @@ FOUNDATION_EXPORT const unsigned char VizbeeKitVersionString[];
 
 #import <VizbeeKit/VZBError.h>
 
-#if !DEBUG
-#import <VizbeeKit/Logger.h>
-#endif
+#import <VizbeeKit/VZBLogger.h>
