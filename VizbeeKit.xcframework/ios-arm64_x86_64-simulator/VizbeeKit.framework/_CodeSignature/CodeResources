@@ -48,25 +48,25 @@
 		<data>
 		Uy17WAmeAxszydrgm8W1nItpzg0=
 		</data>
-		<key>Headers/VZBCustomEvent.h</key>
-		<data>
-		v/JdPB3WSdUBFRSrXO/hoxy0Gp4=
-		</data>
-		<key>Headers/VZBCustomEventHandler.h</key>
-		<data>
-		iG7RGx0u074LdoaG1iC4FVWoQ3w=
-		</data>
 		<key>Headers/VZBError.h</key>
 		<data>
 		bdTL9QV8jG5e1F6D8RDwXKKvLW4=
 		</data>
+		<key>Headers/VZBEvent.h</key>
+		<data>
+		vCzlWLHi2ckoX04prJrxebqtxTY=
+		</data>
+		<key>Headers/VZBEventHandler.h</key>
+		<data>
+		g6hcGuUfN9OJBUqThXMZNi2jC70=
+		</data>
+		<key>Headers/VZBEventManager.h</key>
+		<data>
+		UFWGqok5DzvueoDfm7XssIsqey8=
+		</data>
 		<key>Headers/VZBLayoutsConfig.h</key>
 		<data>
 		b/Yg2IbmK6VWsNzGvOsIuWKSx1Y=
-		</data>
-		<key>Headers/VZBLogger.h</key>
-		<data>
-		lbdzJQY9rLNyf8nr/tbSeXRTS64=
 		</data>
 		<key>Headers/VZBNotificationUserInfo.h</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>Headers/VZBSession.h</key>
 		<data>
-		aA4qbAyBBT55iRJt0w4upbE3T3w=
+		S60tJwGXosHpM6p5CrMtE3luINI=
 		</data>
 		<key>Headers/VZBSessionManager.h</key>
 		<data>
@@ -158,11 +158,11 @@
 		</data>
 		<key>Headers/VizbeeKit.h</key>
 		<data>
-		RbXA44t8EwYZf88wz6kxDYQKBnA=
+		OS/RoQO2uYZRw8ff3kcxdyFcYyg=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		vWoepOnEu3E8eGqbOkRLT+KoJQo=
+		njBeCTnvJII5jX96ZufWQn89lSc=
 		</data>
 		<key>JSONSchema.json</key>
 		<data>
@@ -408,20 +408,6 @@
 			jfECGuS+hhlFK4UgJqpolrv95S7fegysm6zQOCYavZw=
 			</data>
 		</dict>
-		<key>Headers/VZBCustomEvent.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			hdXBpMIbjzl3GffIcUECc34duvIcqlQGSsBz+cIK6CM=
-			</data>
-		</dict>
-		<key>Headers/VZBCustomEventHandler.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bJynb/oPBNkbA2QbExmvnt5BvKX9Y3B8x2OiMnCFJcA=
-			</data>
-		</dict>
 		<key>Headers/VZBError.h</key>
 		<dict>
 			<key>hash2</key>
@@ -429,18 +415,32 @@
 			zH6LaTmrN/28ly8eHq8Q7hiJo9KDg/dsx9/G883Hw6Y=
 			</data>
 		</dict>
+		<key>Headers/VZBEvent.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/n/Kee7nV5Jy9vouDtScbddLTMK1Gjpf7NjO+jiW91k=
+			</data>
+		</dict>
+		<key>Headers/VZBEventHandler.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9sMMkw5J8p3uV/kQTL1F2uz/zmCh4TKI8MUbGNqJ6VU=
+			</data>
+		</dict>
+		<key>Headers/VZBEventManager.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jjj2IVoUcpbFsab8dXtUlFJuJfjc+EouRsEel2nfZc0=
+			</data>
+		</dict>
 		<key>Headers/VZBLayoutsConfig.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			27CvEaRI5HlgyhdYTwVt2bVx4i51wZMrbDrJ6ndYnrs=
-			</data>
-		</dict>
-		<key>Headers/VZBLogger.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			9WHHZzjlljSeScj/+mMwJJ0xNK1VnUbtgDIry3bgsRQ=
 			</data>
 		</dict>
 		<key>Headers/VZBNotificationUserInfo.h</key>
@@ -489,7 +489,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			i4FiPkvjNT7YcZ7MOAN4wILMSIPzb0XnhElYa9p/G3o=
+			n9W5bw922ca+pVobIP0SrslrmA7MNA/NIjnObi9S/z4=
 			</data>
 		</dict>
 		<key>Headers/VZBSessionManager.h</key>
@@ -601,7 +601,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			D1puyCYXOHDv+z/ad55xvXb1DL/9qV4zaZzgHsXLkL0=
+			eHNeC9CrttLik+qPhWGuOprbt3mhvehDwEkqomVhLrk=
 			</data>
 		</dict>
 		<key>JSONSchema.json</key>
