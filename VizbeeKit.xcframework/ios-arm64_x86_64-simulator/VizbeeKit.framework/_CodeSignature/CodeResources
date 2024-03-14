@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		k8FKHR1FWgGiX7RjZ7e+ofLuhJw=
+		w3EP7Nn389PxiCHx9E9mZN2HH44=
 		</data>
 		<key>DeviceUtil.bundle/DeviceList.plist</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>DeviceUtil.bundle/Info.plist</key>
 		<data>
-		Vszg8i/8FtsJPnydui1qKroDsp4=
+		bTCOle0ROgbZAdYae/T6gl+b8t8=
 		</data>
 		<key>Headers/VZBAnalyticsManager.h</key>
 		<data>
@@ -162,7 +162,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		njBeCTnvJII5jX96ZufWQn89lSc=
+		zVXVMSPPPn6HxZZ08P0b8xPtbUo=
 		</data>
 		<key>JSONSchema.json</key>
 		<data>
@@ -234,7 +234,7 @@
 		</data>
 		<key>VZBDevicePickerTableView.nib</key>
 		<data>
-		UYy0fEF+PuMMae0PhqRiWT+gsVw=
+		P9Gd3w2a0jo3Z1umM9LpdzfN0NM=
 		</data>
 		<key>VZBDeviceStatusView.nib</key>
 		<data>
@@ -266,7 +266,7 @@
 		</data>
 		<key>VZBSplitLayer.nib</key>
 		<data>
-		8EANEme8TUNAOa1WF6WYdq0FUSs=
+		9CirpRFRbxaXZeIEhu0I8siGOTo=
 		</data>
 		<key>VZBStyleableAppInstallViewController.nib</key>
 		<data>
@@ -335,7 +335,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oWa6VbRblJY0T37q+5YJ+RxyACAPmDCnmiVlz4Vx5qI=
+			s2ppDr4oRZ9qfETy93t5j5fawuJHJr5PTJGgx4bHdT4=
 			</data>
 		</dict>
 		<key>DeviceUtil.bundle/DeviceList.plist</key>
@@ -349,7 +349,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+bU0rqJBCh3GN1jFtxK2rgorQNaZ59cu3uGfy+rlKIw=
+			t6Hj07GRX5o6wBLrSW7qafk4S8dMLW/EXsrLP4Ewbvk=
 			</data>
 		</dict>
 		<key>Headers/VZBAnalyticsManager.h</key>
@@ -727,7 +727,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VB/OXL/0NKIassNxEc7J6/JHDo2IgZ226lIg+J4z54s=
+			K+dGUm54X0M3xjXpl514nnhKM1arFFdi3Tcg/tk+/vg=
 			</data>
 		</dict>
 		<key>VZBDeviceStatusView.nib</key>
@@ -783,7 +783,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			629pmCxzXjJLywf61uzI+XU8Y4fwdykUwiO2DfBAfqg=
+			V2xuSvjx3a2FbmJs/UpXuU3/54NY0xG5vTMF3sGH/T4=
 			</data>
 		</dict>
 		<key>VZBStyleableAppInstallViewController.nib</key>
