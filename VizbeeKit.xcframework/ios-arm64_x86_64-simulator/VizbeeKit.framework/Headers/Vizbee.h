@@ -13,6 +13,8 @@
 #import "VZBRequest.h"
 #import "VZBSmartPlayOptions.h"
 
+#import "VZBSmartHelpOptions.h"
+
 #import "VZBAppAdapterDelegate.h"
 #import "VZBAuthenticationDelegate.h"
 #import "VZBCurrentVideoDelegate.h"
@@ -96,6 +98,15 @@
  *  @param presentingViewController used to present smarthelp card
  */
 +(BOOL) smartHelp:(UIViewController *_Nonnull)presentingViewController;
+
+/**
+ * 'smartHelp:' API is used to show helpful prompts like
+ * ‘SmartInstall’ or ‘SmartFirstTimeHelp’ in-app messages to the user.
+ *  @param smartHelpOptions used to provide options
+ *  @param presentingViewController used to present smarthelp card
+ */
++(BOOL) smartHelpWithOptions:(VZBSmartHelpOptions *_Nonnull)smartHelpOptions
+presentingViewController:(UIViewController *_Nonnull)presentingViewController;
 
 //----------------------------------
 #pragma mark - CastIcon Proxy

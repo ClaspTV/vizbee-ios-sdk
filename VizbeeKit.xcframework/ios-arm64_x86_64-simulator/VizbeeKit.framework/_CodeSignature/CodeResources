@@ -100,6 +100,10 @@
 		<data>
 		8d24RxjBNbKdsFiNLl0A4OBoL/w=
 		</data>
+		<key>Headers/VZBSmartHelpOptions.h</key>
+		<data>
+		1s+T1JyVRI4Z27iIBsVdo064W6M=
+		</data>
 		<key>Headers/VZBSmartPlayOptions.h</key>
 		<data>
 		tItFMo7caZlTsZpyDPERLPOMoL8=
@@ -154,7 +158,7 @@
 		</data>
 		<key>Headers/Vizbee.h</key>
 		<data>
-		zdWJlCgYSI/5g+yhWtpi5HAissk=
+		dL8xaDa+sfnzoEzHlbYFruxzMIk=
 		</data>
 		<key>Headers/VizbeeKit.h</key>
 		<data>
@@ -162,7 +166,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Y4Dx/164raZmo3BkxS7TvCcGuFQ=
+		c3rYLYn/HHO1Zwd5OMCk3jGm36M=
 		</data>
 		<key>JSONSchema.json</key>
 		<data>
@@ -499,6 +503,13 @@
 			f1fAuHPG8njaP4YEB4GC7kB1T6dUuoIEEPyCZOZFegQ=
 			</data>
 		</dict>
+		<key>Headers/VZBSmartHelpOptions.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cEI03spdW1ygZI11KaV+2pKGntpoA5xq6yeEm8valgc=
+			</data>
+		</dict>
 		<key>Headers/VZBSmartPlayOptions.h</key>
 		<dict>
 			<key>hash2</key>
@@ -594,7 +605,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dEgdoSuDp5AZbzWat6Gs9lbhQBCAFl5o+NL5Mc1JoPw=
+			abqKMZSVYamm0jkT/6Vdz5BC//5la4UyyIEM1tiBml8=
 			</data>
 		</dict>
 		<key>Headers/VizbeeKit.h</key>
