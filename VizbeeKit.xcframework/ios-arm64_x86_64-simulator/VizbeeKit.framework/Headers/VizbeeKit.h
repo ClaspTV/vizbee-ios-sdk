@@ -55,3 +55,4 @@ FOUNDATION_EXPORT const unsigned char VizbeeKitVersionString[];
 
 #import <VizbeeKit/VZBError.h>
 
+#import <VizbeeKit/VZBMetricsEventPublisher.h>
