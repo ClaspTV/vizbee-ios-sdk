@@ -30,7 +30,10 @@ typedef NS_ENUM(NSUInteger, VZBAnalyticsEventType) {
     
     // play selection
     VZBAnalyticsEventTypePlayOnPhoneSelected,
-    VZBAnalyticsEventTypePlayOnTVSelected
+    VZBAnalyticsEventTypePlayOnTVSelected,
+    
+    // card dismissed
+    VZBAnalyticsEventTypeCardDismissed
 };
 
 @protocol VZBAnalyticsDelegate<NSObject>
