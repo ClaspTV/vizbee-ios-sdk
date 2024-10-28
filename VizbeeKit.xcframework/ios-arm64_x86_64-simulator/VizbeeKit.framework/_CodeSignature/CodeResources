@@ -32,6 +32,14 @@
 		<data>
 		u5KmqT6ukd9NUXny3sRqmHTYD2g=
 		</data>
+		<key>Headers/VZBCardConfiguration.h</key>
+		<data>
+		cfJqDVc0uaBg2YKFKLVBx1w2VlA=
+		</data>
+		<key>Headers/VZBCastAuthorizationCardConfiguration.h</key>
+		<data>
+		WbybT5J3zoot/pe/G0wdEaQncUA=
+		</data>
 		<key>Headers/VZBCastBarViewController.h</key>
 		<data>
 		MS1Mb53bSrSf6lmhidaoB5fzWSk=
@@ -43,6 +51,10 @@
 		<key>Headers/VZBCastIconProxy.h</key>
 		<data>
 		Eg6R3ivSyBHt473pZVo/bXAS8JE=
+		</data>
+		<key>Headers/VZBCastIntroductionCardConfiguration.h</key>
+		<data>
+		kMKSnpGPVIV/FAycQDyXhXHyKtA=
 		</data>
 		<key>Headers/VZBCurrentVideoDelegate.h</key>
 		<data>
@@ -64,6 +76,10 @@
 		<data>
 		UFWGqok5DzvueoDfm7XssIsqey8=
 		</data>
+		<key>Headers/VZBGuidedSmartInstallCardConfiguration.h</key>
+		<data>
+		flp4FhUJE0wWbJQr/frud3Jy6N8=
+		</data>
 		<key>Headers/VZBLayoutsConfig.h</key>
 		<data>
 		b/Yg2IbmK6VWsNzGvOsIuWKSx1Y=
@@ -71,6 +87,10 @@
 		<key>Headers/VZBMetricsEventPublisher.h</key>
 		<data>
 		uI6EqJs1o6rNWGuuOQBjKiC4UDE=
+		</data>
+		<key>Headers/VZBMultiDeviceSmartInstallCardConfiguration.h</key>
+		<data>
+		N1iArvx8K5vYtqqT1pgb2Ki1hlU=
 		</data>
 		<key>Headers/VZBNotificationUserInfo.h</key>
 		<data>
@@ -108,6 +128,10 @@
 		<data>
 		1s+T1JyVRI4Z27iIBsVdo064W6M=
 		</data>
+		<key>Headers/VZBSmartInstallCardConfiguration.h</key>
+		<data>
+		FTiZBzw5bGXD1r81zgTS3WJ1KIw=
+		</data>
 		<key>Headers/VZBSmartPlayOptions.h</key>
 		<data>
 		tItFMo7caZlTsZpyDPERLPOMoL8=
@@ -119,6 +143,10 @@
 		<key>Headers/VZBUICastContainerViewController.h</key>
 		<data>
 		RjdB8gu/Vr7Rsg4hN+IpfAgsxGc=
+		</data>
+		<key>Headers/VZBUIConfiguration.h</key>
+		<data>
+		jm7yd6wU9VqpAU3CJxFUN+QZI+Q=
 		</data>
 		<key>Headers/VZBUIMiniCastView.h</key>
 		<data>
@@ -162,15 +190,15 @@
 		</data>
 		<key>Headers/Vizbee.h</key>
 		<data>
-		dL8xaDa+sfnzoEzHlbYFruxzMIk=
+		P2HsDJz1yZ2ftMtYx+f67qSmtTs=
 		</data>
 		<key>Headers/VizbeeKit.h</key>
 		<data>
-		JOpZu/H6WpjC6Rr1Ns86z1Q0TcA=
+		bkBjgIcW4wWuL8c4AU2yvc4qfz0=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		OrUwAQ/F9iInuYKZHJPdoIkY3aQ=
+		LiZILhXYfITKszrNckvip7aSdUs=
 		</data>
 		<key>JSONSchema.json</key>
 		<data>
@@ -388,6 +416,20 @@
 			5AAAY2c2RCnP501qHeNDXgUp/U3F69XZNvvZh6u1OYc=
 			</data>
 		</dict>
+		<key>Headers/VZBCardConfiguration.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SAaJHuPWoz7dYaAgHGUCjpRhICeLa5p/1u8MO6wizP0=
+			</data>
+		</dict>
+		<key>Headers/VZBCastAuthorizationCardConfiguration.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+GyP10i4ZpM+8U+FFeE+TPNRJ2KFkuPrlmuQ+/SpyIU=
+			</data>
+		</dict>
 		<key>Headers/VZBCastBarViewController.h</key>
 		<dict>
 			<key>hash2</key>
@@ -407,6 +449,13 @@
 			<key>hash2</key>
 			<data>
 			C2MIa2H6ea7S7BSUUl6DVE+M+SxtZ/pPCye2fk8XGzc=
+			</data>
+		</dict>
+		<key>Headers/VZBCastIntroductionCardConfiguration.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sKnoILs6FB7ETlYzNfUoxrOWCtNepQd8YcHqNuzSdkM=
 			</data>
 		</dict>
 		<key>Headers/VZBCurrentVideoDelegate.h</key>
@@ -444,6 +493,13 @@
 			jjj2IVoUcpbFsab8dXtUlFJuJfjc+EouRsEel2nfZc0=
 			</data>
 		</dict>
+		<key>Headers/VZBGuidedSmartInstallCardConfiguration.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			s+HRoV7Zk3whJOhEdQMb25D6nS4OZIbRnBgB0UvGHvk=
+			</data>
+		</dict>
 		<key>Headers/VZBLayoutsConfig.h</key>
 		<dict>
 			<key>hash2</key>
@@ -456,6 +512,13 @@
 			<key>hash2</key>
 			<data>
 			CVO4UsjsiCqTltEzfV3TexyN7YMCKpAf5v5HN26TPsg=
+			</data>
+		</dict>
+		<key>Headers/VZBMultiDeviceSmartInstallCardConfiguration.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mDpI0hKCiVtq+LT+/YHirN241f3AmGr2thRlwSgQYzs=
 			</data>
 		</dict>
 		<key>Headers/VZBNotificationUserInfo.h</key>
@@ -521,6 +584,13 @@
 			cEI03spdW1ygZI11KaV+2pKGntpoA5xq6yeEm8valgc=
 			</data>
 		</dict>
+		<key>Headers/VZBSmartInstallCardConfiguration.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZqjtSqRe61My4qgqrfYT3L7snr1b454HzebqH27XJy0=
+			</data>
+		</dict>
 		<key>Headers/VZBSmartPlayOptions.h</key>
 		<dict>
 			<key>hash2</key>
@@ -540,6 +610,13 @@
 			<key>hash2</key>
 			<data>
 			7Iyj7E1DIw60wLZPYqxGvnM9Ox6jWHEXX1pfmszEKG4=
+			</data>
+		</dict>
+		<key>Headers/VZBUIConfiguration.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			81z+dbRFnz8b0CbbzkuinfO143Vj+m8rUYHDrnNiMbw=
 			</data>
 		</dict>
 		<key>Headers/VZBUIMiniCastView.h</key>
@@ -616,14 +693,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			abqKMZSVYamm0jkT/6Vdz5BC//5la4UyyIEM1tiBml8=
+			VMBSxO/bWhnkIK+HvqqvGeF1bqWRTFd2WF/iD1ry87o=
 			</data>
 		</dict>
 		<key>Headers/VizbeeKit.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5EVLTv7SILWOG2PYm79OR9YlXfc/b26qiBx+kIGx5Xs=
+			ibsES5zCIEe3VnHRr3M/cQUCRT0dtUd6k+2hSdDmupI=
 			</data>
 		</dict>
 		<key>JSONSchema.json</key>

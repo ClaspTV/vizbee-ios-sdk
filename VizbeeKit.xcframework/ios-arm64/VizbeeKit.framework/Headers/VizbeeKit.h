@@ -21,6 +21,14 @@ FOUNDATION_EXPORT const unsigned char VizbeeKitVersionString[];
 #import <VizbeeKit/VZBOptions.h>
 #import <VizbeeKit/VZBLayoutsConfig.h>
 
+#import <VizbeeKit/VZBUIConfiguration.h>
+#import <VizbeeKit/VZBCardConfiguration.h>
+#import <VizbeeKit/VZBCastAuthorizationCardConfiguration.h>
+#import <VizbeeKit/VZBCastIntroductionCardConfiguration.h>
+#import <VizbeeKit/VZBSmartInstallCardConfiguration.h>
+#import <VizbeeKit/VZBGuidedSmartInstallCardConfiguration.h>
+#import <VizbeeKit/VZBMultiDeviceSmartInstallCardConfiguration.h>
+
 #import <VizbeeKit/VZBCastButton.h>
 #import <VizbeeKit/VZBCastIconProxy.h>
 #import <VizbeeKit/VZBCurrentVideoDelegate.h>

@@ -19,6 +19,7 @@
 #import "VZBAuthenticationDelegate.h"
 #import "VZBCurrentVideoDelegate.h"
 #import "VZBLayoutsConfig.h"
+#import "VZBUIConfiguration.h"
 #import "VZBCastIconProxy.h"
 #import "VZBOptions.h"
 #import "VZBNotificationUserInfo.h"
@@ -89,6 +90,14 @@
  */
 +(void) setUIConfig:(NSDictionary* _Nonnull)style
             layouts:(VZBLayoutsConfig* _Nonnull) layouts;
+
+/**
+ * Returns the UI configuration for Vizbee SDK.
+ * This method should only be called after the SDK has been initialized.
+ *
+ * @return UIConfiguration object if SDK is initialized, nil otherwise
+ */
++(VZBUIConfiguration* _Nullable) getUIConfiguration;
 
 #pragma mark - SmartHelp
 
