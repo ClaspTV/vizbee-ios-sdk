@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		MglXmox9VCozDuMowDEHFeVBaQs=
+		0xTu7BIcrRmA5RIy++EXJ5psV0k=
 		</data>
 		<key>DeviceUtil.bundle/DeviceList.plist</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>DeviceUtil.bundle/Info.plist</key>
 		<data>
-		7h52YUxibsSwHD28Kii8LjNTniA=
+		ocLo86J+XHMIZZkoXXre67IapbE=
 		</data>
 		<key>Headers/VZBAnalyticsManager.h</key>
 		<data>
@@ -198,7 +198,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KAZKYGDfn4bOadj3vVGT+Sd8djY=
+		46PSxKAWLPNWTPF4pszbKSCkKR4=
 		</data>
 		<key>JSONSchema.json</key>
 		<data>
@@ -218,7 +218,7 @@
 		</data>
 		<key>VZBAdminPanel.storyboardc/2QQ-si-iAk-view-06J-A6-4cg.nib</key>
 		<data>
-		Gbywmk7OaqrkVgEI/46KqgewPAY=
+		7YJjvDpActn+FuI9ww3oscL4bWs=
 		</data>
 		<key>VZBAdminPanel.storyboardc/AdminPanel.nib</key>
 		<data>
@@ -286,7 +286,7 @@
 		</data>
 		<key>VZBPairingViewController.nib</key>
 		<data>
-		SBDtnxhRF0cNxfIGlgA3FZ+eKP4=
+		1ou04GokO3aWmydR5zHmKNOqOa8=
 		</data>
 		<key>VZBPlayPauseButton.nib</key>
 		<data>
@@ -314,7 +314,7 @@
 		</data>
 		<key>VZBStyleableSwitchVideoViewController.nib</key>
 		<data>
-		gWVVc3CsVoaND73CjmAtEn7p2lk=
+		tWJlvMqpuOLrzpiIHTkisCTL53A=
 		</data>
 		<key>VZBTitledDevicePickerTableView.nib</key>
 		<data>
@@ -371,7 +371,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bSbhF5VPCxM7lOoZan+YiQNtB3coK71OX/JmIH7NLP4=
+			oqiHUWbKewk/eiWafhIAND/zf4MAoJYuRLXmRPELDt0=
 			</data>
 		</dict>
 		<key>DeviceUtil.bundle/DeviceList.plist</key>
@@ -385,7 +385,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CxmbbwcuKdRoHPAxf0xVaUt4cK8evnf9OOvCf1bkYKY=
+			QbBOSuFQegHx+fvd1p9s4z2TZmoY9nnMgokm0gxGbHk=
 			</data>
 		</dict>
 		<key>Headers/VZBAnalyticsManager.h</key>
@@ -735,7 +735,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dBtR3XaTpWQ+SriAhzz24XbjxyEjFMNgLui+27RLXAw=
+			z6ktZ2eb/ZhjzJLb57HsNaURKDdPSXGZO2HtO6boOv4=
 			</data>
 		</dict>
 		<key>VZBAdminPanel.storyboardc/AdminPanel.nib</key>
@@ -854,7 +854,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UHmg/clnlT2kwUDO1bqnaItuoQRy/UpoTEbC291dIdg=
+			JY8jm59Nx0zVV8PP9NFcbcAIoR68TRpFTCZinNM0RYk=
 			</data>
 		</dict>
 		<key>VZBPlayPauseButton.nib</key>
@@ -903,7 +903,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Nv+/vs0Lem28VgFY260jZdfcIhsWBSKPGYVyMatm+O4=
+			GFfnt7vxWcgyDLKuWCmUbYlpf9o8urCxfw1idTuPiIo=
 			</data>
 		</dict>
 		<key>VZBTitledDevicePickerTableView.nib</key>
