@@ -24,6 +24,7 @@
 
 /** array of VZBVideoTrackInfo */
 @property (nonatomic, strong) NSArray<VZBVideoTrackInfo*>* tracks;
+@property (nonatomic, strong) NSArray<VZBVideoTrackInfo*>* currentTracks;
 
 @property (nonatomic, assign) VZBScreenDRMType drmType;
 @property (nonatomic, strong) NSURL* drmLicenseURL;
