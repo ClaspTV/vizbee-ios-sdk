@@ -198,7 +198,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		A0Mo6DOAMwzlFWf6+rYXOvEd4Bs=
+		tR2Wj5AeP86fcirPtClDhEcSOOk=
 		</data>
 		<key>JSONSchema.json</key>
 		<data>
@@ -259,6 +259,14 @@
 		<key>VZBBaseLayeredViewController.nib</key>
 		<data>
 		s+k6hmlsuzlK/uJ1wCiU+tE6GLw=
+		</data>
+		<key>VZBCastBarNonPlayingView.nib</key>
+		<data>
+		cv/tFFzcS7VAP9XbzAqpfcndZNI=
+		</data>
+		<key>VZBCastBarPlayingView.nib</key>
+		<data>
+		8ZrQDf7eWgpfWSn43yLK34smFaA=
 		</data>
 		<key>VZBContentStatusView.nib</key>
 		<data>
@@ -324,9 +332,13 @@
 		<data>
 		fTP2AUCu9rdXknNxnwi97HBvLO0=
 		</data>
+		<key>VZBUICastViews.storyboardc/CastContainerView.nib</key>
+		<data>
+		sVuBgSc6Nytp9RTz4oCSuHRxQxg=
+		</data>
 		<key>VZBUICastViews.storyboardc/Info.plist</key>
 		<data>
-		NLMDDEBn46TsX7jo+Q5aPa9rkTY=
+		vvlhkWJlEZwJaTS3OJXDtglJmVc=
 		</data>
 		<key>VZBUICastViews.storyboardc/MainCastContainer.nib</key>
 		<data>
@@ -336,21 +348,17 @@
 		<data>
 		0JRHulkB0GPUYyB2U1nAxRzd4V4=
 		</data>
-		<key>VZBUICastViews.storyboardc/MiniCastPlaybackView.nib</key>
-		<data>
-		jcJdrtWAZr6enYZb7Ax2qLZVN18=
-		</data>
 		<key>VZBUICastViews.storyboardc/dkA-xP-Snx-view-y7a-Ku-vUi.nib</key>
 		<data>
 		qJddJK6u2CFSrM9eVLV1ydprg6U=
 		</data>
 		<key>VZBUICastViews.storyboardc/gVh-L8-oXX-view-aKZ-bB-750.nib</key>
 		<data>
-		GTrYHa2/sHAJQL1c7KrMK91VB8s=
+		NfsYpOubVxyXfi4ot6RaTRUbOEU=
 		</data>
-		<key>VZBUICastViews.storyboardc/qEX-8k-yp5-view-fSo-JK-TCu.nib</key>
+		<key>VZBUICastViews.storyboardc/hRS-Nw-LAV-view-67X-3m-VbR.nib</key>
 		<data>
-		ZNfA9MZqijHsd1obX929HYX+yho=
+		nMgBDil2Ht7SpzcExkcNafH7pL0=
 		</data>
 		<key>VZBVideoControlSlider.nib</key>
 		<data>
@@ -808,6 +816,20 @@
 			JlES/cDDlms3R1xs0VP/B6EYymIbHv9FXC2Pyq2pxnY=
 			</data>
 		</dict>
+		<key>VZBCastBarNonPlayingView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			I86snlLdFzMctAKyoVyvEA9Hug+q+B0u7GycgcAMEG0=
+			</data>
+		</dict>
+		<key>VZBCastBarPlayingView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bDMGtPufK76Jzh40082ULvY2HFmdoPVNrLt4XWyYJP0=
+			</data>
+		</dict>
 		<key>VZBContentStatusView.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -920,11 +942,18 @@
 			4iOzzn12V7KcuiVFMi6RqW9ZiIDETxRWMhjVHMbtnR4=
 			</data>
 		</dict>
+		<key>VZBUICastViews.storyboardc/CastContainerView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AAKBlR6BkIs61ynMmij3yaR2JpCto/ixXNBm9S5KiKU=
+			</data>
+		</dict>
 		<key>VZBUICastViews.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FAYinBNZPUMrD0faUjFOyHrz2oZiZ/jmb9sRAhB7Amc=
+			fO+z2FRbQk3NuT7x0RtWoka8e5PFsu+n+2sZLnHK1wM=
 			</data>
 		</dict>
 		<key>VZBUICastViews.storyboardc/MainCastContainer.nib</key>
@@ -941,13 +970,6 @@
 			zyVq4SsFeq6dpr9OIMQTadd1rG/urb99hmCJDA/bHAs=
 			</data>
 		</dict>
-		<key>VZBUICastViews.storyboardc/MiniCastPlaybackView.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			XQhoPEZ+7teGwMNG8RSfiVqDgNPbHWmTjzER0ZHwIQI=
-			</data>
-		</dict>
 		<key>VZBUICastViews.storyboardc/dkA-xP-Snx-view-y7a-Ku-vUi.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -959,14 +981,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qUArlqHnrR8/ONu4Zq2jYNQ8PKwDhuUqAY4w2ZE/Q4s=
+			eqyWTsabl9euCO//SbFul6yeHs/hDpmefGvbq0WpFqU=
 			</data>
 		</dict>
-		<key>VZBUICastViews.storyboardc/qEX-8k-yp5-view-fSo-JK-TCu.nib</key>
+		<key>VZBUICastViews.storyboardc/hRS-Nw-LAV-view-67X-3m-VbR.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eiHw7bUFFBnQ5wSAvCJDiXRzANbhkfyhof5NbAnCGKs=
+			wcXRMdR/ti52L23951OYv0pcnRO6oRP4tkpVMBBPvy0=
 			</data>
 		</dict>
 		<key>VZBVideoControlSlider.nib</key>
