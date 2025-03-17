@@ -17,6 +17,7 @@
 
 @property (nonatomic, strong) NSURL* videoURL;
 @property (nonatomic, assign) VZBScreenProtocolType protocolType;
+@property (nonatomic, assign) BOOL isDVRSupported;
 
 //----------------------------------
 #pragma mark - Tracks
