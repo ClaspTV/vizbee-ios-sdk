@@ -18,6 +18,12 @@
 @property (nonatomic, assign) BOOL isProduction;
 
 /**
+ * Optional proxy host for config service requests
+ * If provided, this host will be used instead of the default config service host
+ */
+@property (nonatomic, strong) NSString * _Nullable configServiceProxyHost;
+
+/**
  * Dictionary with Vizbee style options
  */
 @property (nonatomic, strong) NSDictionary * _Nullable uiConfig;
