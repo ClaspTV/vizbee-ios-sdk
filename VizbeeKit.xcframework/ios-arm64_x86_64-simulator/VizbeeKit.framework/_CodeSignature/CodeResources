@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		KrS9ho4ldDHBH/Wsr2+GgrOAvyw=
+		RmHGQemYFjLORkdxFadisCxTES4=
 		</data>
 		<key>DeviceUtil.bundle/DeviceList.plist</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>DeviceUtil.bundle/Info.plist</key>
 		<data>
-		UZZExgBLebfMz2hK6HA+YW/Wqkg=
+		RMNeQ6YAlOeuYzzFaXzuZdbGry4=
 		</data>
 		<key>Headers/VZBAnalyticsManager.h</key>
 		<data>
@@ -190,7 +190,7 @@
 		</data>
 		<key>Headers/Vizbee.h</key>
 		<data>
-		P2HsDJz1yZ2ftMtYx+f67qSmtTs=
+		TIJJDyDED2KGAp9nsAQLqDqmAlk=
 		</data>
 		<key>Headers/VizbeeKit.h</key>
 		<data>
@@ -198,7 +198,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		JEugnRT6ZrpsdEUJTR8tcHnCizo=
+		KpcU9zb44tZ+yO/b+2D5GNQQEzY=
 		</data>
 		<key>JSONSchema.json</key>
 		<data>
@@ -214,11 +214,11 @@
 		</data>
 		<key>VZBAdminPanel.storyboardc/0F4-g5-9D1-view-Kt7-Jr-JEF.nib</key>
 		<data>
-		EvXlkPolZseML9j2o7wO4VS+/Ag=
+		gsg9XfNw6I1mXIgPN0MP0yrgWKA=
 		</data>
 		<key>VZBAdminPanel.storyboardc/2QQ-si-iAk-view-06J-A6-4cg.nib</key>
 		<data>
-		Gbywmk7OaqrkVgEI/46KqgewPAY=
+		q8oV9gklS4Lmm9przcufKgWZiKM=
 		</data>
 		<key>VZBAdminPanel.storyboardc/AdminPanel.nib</key>
 		<data>
@@ -226,11 +226,11 @@
 		</data>
 		<key>VZBAdminPanel.storyboardc/DcW-9J-ViX-view-d0l-30-6nS.nib</key>
 		<data>
-		WPPVO9liIbw7TTleXkFWnpLYFR4=
+		5hUNl0355ftrVuV9obSY1Br0kw0=
 		</data>
 		<key>VZBAdminPanel.storyboardc/H73-VF-8nC-view-1VM-t6-1Rg.nib</key>
 		<data>
-		aaxiWtGdURRvWvMqZKAN+Wv7wy0=
+		RtBqER34uiuhTq6hU5J4DHc0G74=
 		</data>
 		<key>VZBAdminPanel.storyboardc/Info.plist</key>
 		<data>
@@ -294,7 +294,7 @@
 		</data>
 		<key>VZBPairingViewController.nib</key>
 		<data>
-		SBDtnxhRF0cNxfIGlgA3FZ+eKP4=
+		9Oulrf7yZE3hlHOYGlurA9AieS8=
 		</data>
 		<key>VZBPlayPauseButton.nib</key>
 		<data>
@@ -322,7 +322,7 @@
 		</data>
 		<key>VZBStyleableSwitchVideoViewController.nib</key>
 		<data>
-		gWVVc3CsVoaND73CjmAtEn7p2lk=
+		sIjGA9tRxvYdlHL+Cc075QHEG1Q=
 		</data>
 		<key>VZBTitledDevicePickerTableView.nib</key>
 		<data>
@@ -379,7 +379,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VVVdw+ovmRFP4wn+5lTzbwBwLTlvGkQ4sei0ryLQ+vI=
+			+qvkN0EbaIA2B0l5jVusbohNP7qWpXz54dgVEDqPnbM=
 			</data>
 		</dict>
 		<key>DeviceUtil.bundle/DeviceList.plist</key>
@@ -393,7 +393,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DuwlTAKrsGGNbYhXw1yRC0ALWGYmRwyGJAXwFuQNdUM=
+			A3rMyk5V+nd4R3mFtvkgPdXl/240EHM4LIuT6C1/RFA=
 			</data>
 		</dict>
 		<key>Headers/VZBAnalyticsManager.h</key>
@@ -701,7 +701,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VMBSxO/bWhnkIK+HvqqvGeF1bqWRTFd2WF/iD1ry87o=
+			EdwqD8TeehHSy8ktCKLmMQNRdR/GG8aQc8wTmcEcwJs=
 			</data>
 		</dict>
 		<key>Headers/VizbeeKit.h</key>
@@ -736,14 +736,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JTrIXpaBaTNycxZg6/Tae6fce8j5VbqxdYQdzLNwszU=
+			JN8GtOuE/F0ekpaYsKFK9DM/i9O79XTu+7VM3R0Mbr4=
 			</data>
 		</dict>
 		<key>VZBAdminPanel.storyboardc/2QQ-si-iAk-view-06J-A6-4cg.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dBtR3XaTpWQ+SriAhzz24XbjxyEjFMNgLui+27RLXAw=
+			BM04DL13c/xrvfaTDGCVnYAP7AJsOh/ih/qaePxPP2w=
 			</data>
 		</dict>
 		<key>VZBAdminPanel.storyboardc/AdminPanel.nib</key>
@@ -757,14 +757,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			x6xFMk/GTkuvZkqsaoNQpRzmnBqXLBl2tCP1tlZSU0g=
+			VuQgaBJAF1ygVYFh5zcJrSNQCxLuDdydTJeYthEOeYM=
 			</data>
 		</dict>
 		<key>VZBAdminPanel.storyboardc/H73-VF-8nC-view-1VM-t6-1Rg.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6Hghl0IrAMmotnwFhUgTnEFK0LH6SHgICCwR4T6otWk=
+			VRel0E71W6FMJDYq7eoLAXNwMXJMVmf2orTVxO7v2/A=
 			</data>
 		</dict>
 		<key>VZBAdminPanel.storyboardc/Info.plist</key>
@@ -876,7 +876,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UHmg/clnlT2kwUDO1bqnaItuoQRy/UpoTEbC291dIdg=
+			PPX986Y8m6Ty9JD/pwolK06PTrdO8rxbuFbgMjrFc6E=
 			</data>
 		</dict>
 		<key>VZBPlayPauseButton.nib</key>
@@ -925,7 +925,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Nv+/vs0Lem28VgFY260jZdfcIhsWBSKPGYVyMatm+O4=
+			BPcw9Nr0PFmxyJH93hTx/q/83w5W5U3E2k1sbyiKsKs=
 			</data>
 		</dict>
 		<key>VZBTitledDevicePickerTableView.nib</key>

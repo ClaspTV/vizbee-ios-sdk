@@ -37,6 +37,8 @@
 
 #pragma mark - Init
 
++(void) initialize;
+
 /**
  * @brief initialize Vizbee SDK using the provided application ID
  * @param appID must be the unique string ID provided by Vizbee.
@@ -67,6 +69,23 @@
 +(void) startWithAppID:(NSString * _Nonnull)appID
     appAdapterDelegate:(id<VZBAppAdapterDelegate> _Nonnull)appAdapterDelegate
       andVizbeeOptions:(VZBOptions * _Nonnull)options;
+
+/**
+ * @brief 
+ */
++(void) startWithAppID:(NSString *)appID
+ andAppAdapterDelegate:(id<VZBAppAdapterDelegate>)appAdapterDelegate
+            completion:(void (^)(NSError* failure))completion;
+
+/**
+ * @brief
+ */
++(void) startWithAppID:(NSString * _Nonnull)appID
+    appAdapterDelegate:(id<VZBAppAdapterDelegate> _Nonnull)appAdapterDelegate
+      andVizbeeOptions:(VZBOptions * _Nonnull)options
+            completion:(void (^)(NSError* failure))completion;
+
++(void) stop;
 
 /**
  *  @brief adds a given custom attributes to the Vizbee Events.
@@ -264,6 +283,11 @@ didRegisterForRemoteNotificationsWithDeviceToken:(NSData* _Nonnull)deviceToken;
  * @return new instance of VZBHomeFlows or null if {Vizbee#startWithAppID(appId, , appAdapterDelegate)} has not been called previously
  */
 +(VZBHomeFlows *_Nullable) getHomeFlows;
+
+#pragma mark - Discovery
+
++(void) startActiveDiscovery;
++(void) stopActiveDiscovery;
 
 //----------------------------------
 #pragma mark - Internal Use Only
