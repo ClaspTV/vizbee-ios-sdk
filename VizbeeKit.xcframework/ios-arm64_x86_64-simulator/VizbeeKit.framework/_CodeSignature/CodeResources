@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		RmHGQemYFjLORkdxFadisCxTES4=
+		v5cG468ei8x63SGSRsuzgJGzmrs=
 		</data>
 		<key>DeviceUtil.bundle/DeviceList.plist</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>DeviceUtil.bundle/Info.plist</key>
 		<data>
-		RMNeQ6YAlOeuYzzFaXzuZdbGry4=
+		X4cePZkkgyRmnoTbc9n87lj4i7U=
 		</data>
 		<key>Headers/VZBAnalyticsManager.h</key>
 		<data>
@@ -198,7 +198,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		XFHPO9aFDpsBQKAJJMY0ALc5qCA=
+		vcIFYtJBrnDd9lieIqQhqpz4r8w=
 		</data>
 		<key>JSONSchema.json</key>
 		<data>
@@ -214,7 +214,7 @@
 		</data>
 		<key>VZBAdminPanel.storyboardc/0F4-g5-9D1-view-Kt7-Jr-JEF.nib</key>
 		<data>
-		gsg9XfNw6I1mXIgPN0MP0yrgWKA=
+		jvRTdfYfM/fhr5Y4B5ttZf56VMs=
 		</data>
 		<key>VZBAdminPanel.storyboardc/2QQ-si-iAk-view-06J-A6-4cg.nib</key>
 		<data>
@@ -226,11 +226,11 @@
 		</data>
 		<key>VZBAdminPanel.storyboardc/DcW-9J-ViX-view-d0l-30-6nS.nib</key>
 		<data>
-		5hUNl0355ftrVuV9obSY1Br0kw0=
+		5kZAn7DY76wb5g84qlnLBXUiLzA=
 		</data>
 		<key>VZBAdminPanel.storyboardc/H73-VF-8nC-view-1VM-t6-1Rg.nib</key>
 		<data>
-		RtBqER34uiuhTq6hU5J4DHc0G74=
+		5n+RJPhTIFjJTKAt0vaXlCzTvYw=
 		</data>
 		<key>VZBAdminPanel.storyboardc/Info.plist</key>
 		<data>
@@ -278,7 +278,7 @@
 		</data>
 		<key>VZBDevicePickerTableView.nib</key>
 		<data>
-		P9Gd3w2a0jo3Z1umM9LpdzfN0NM=
+		9w6r8octebpYX+PYh1N9woYQzr0=
 		</data>
 		<key>VZBDeviceStatusView.nib</key>
 		<data>
@@ -379,7 +379,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+qvkN0EbaIA2B0l5jVusbohNP7qWpXz54dgVEDqPnbM=
+			IJrv1RkoKw0DsjwSxjyfYAakZehtwSBjhM4ev88iXTk=
 			</data>
 		</dict>
 		<key>DeviceUtil.bundle/DeviceList.plist</key>
@@ -393,7 +393,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			A3rMyk5V+nd4R3mFtvkgPdXl/240EHM4LIuT6C1/RFA=
+			5E7tdkaB7insCLXxVSHKgNaOYoyQ42vPQgisa1FWsFc=
 			</data>
 		</dict>
 		<key>Headers/VZBAnalyticsManager.h</key>
@@ -736,7 +736,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JN8GtOuE/F0ekpaYsKFK9DM/i9O79XTu+7VM3R0Mbr4=
+			NMIb0/I/ftHKbBXEvaG5IF/JLoaoyUij++Oo6sVpVHU=
 			</data>
 		</dict>
 		<key>VZBAdminPanel.storyboardc/2QQ-si-iAk-view-06J-A6-4cg.nib</key>
@@ -757,14 +757,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VuQgaBJAF1ygVYFh5zcJrSNQCxLuDdydTJeYthEOeYM=
+			SEGESxPaPJ40DzX5+A/z+JvtiRZnSNyIFTRwrH+9hEg=
 			</data>
 		</dict>
 		<key>VZBAdminPanel.storyboardc/H73-VF-8nC-view-1VM-t6-1Rg.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VRel0E71W6FMJDYq7eoLAXNwMXJMVmf2orTVxO7v2/A=
+			rjjP0WMlWeJFG01zRXUciyAgKGSRb62FTCdML2iQw+M=
 			</data>
 		</dict>
 		<key>VZBAdminPanel.storyboardc/Info.plist</key>
@@ -848,7 +848,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			K+dGUm54X0M3xjXpl514nnhKM1arFFdi3Tcg/tk+/vg=
+			4cM15WxQlcBCOnGSqdVT6ZDKU5Ppr7++VYWuIBiG5Y0=
 			</data>
 		</dict>
 		<key>VZBDeviceStatusView.nib</key>
