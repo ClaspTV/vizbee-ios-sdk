@@ -41,7 +41,12 @@ typedef NS_ENUM(NSInteger, VZBUICardType) {
     /**
      * Card for promoting app installation across multiple devices.
      */
-    VZBUICardTypeMultiDeviceSmartInstall
+    VZBUICardTypeMultiDeviceSmartInstall,
+    
+    /**
+     * Card for cross-app promotion and TV deeplinking.
+     */
+    VZBUICardTypeSmartHandoff
 };
 
 /**

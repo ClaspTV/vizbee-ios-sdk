@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		v5cG468ei8x63SGSRsuzgJGzmrs=
+		9zjutXWeCTZX3ZiHv6KUkGMwKH0=
 		</data>
 		<key>DeviceUtil.bundle/DeviceList.plist</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/VZBAnalyticsManager.h</key>
 		<data>
-		EF6NDtYUs39u9iJ97ZiaFGHCXmA=
+		u3FckHjHWA5TSoHySlCifjY+log=
 		</data>
 		<key>Headers/VZBAppAdapterDelegate.h</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Headers/VZBCardConfiguration.h</key>
 		<data>
-		cfJqDVc0uaBg2YKFKLVBx1w2VlA=
+		3ATkJpXcuMr+DCfz6PWuJff6eVA=
 		</data>
 		<key>Headers/VZBCastAuthorizationCardConfiguration.h</key>
 		<data>
@@ -124,9 +124,17 @@
 		<data>
 		8d24RxjBNbKdsFiNLl0A4OBoL/w=
 		</data>
+		<key>Headers/VZBSmartHandoffCardConfiguration.h</key>
+		<data>
+		CSBoG6NtApEwxDswKV58KUioUQM=
+		</data>
+		<key>Headers/VZBSmartHandoffOptions.h</key>
+		<data>
+		6QtIymn38l5YDewS4uiX/RXoJ+U=
+		</data>
 		<key>Headers/VZBSmartHelpOptions.h</key>
 		<data>
-		1s+T1JyVRI4Z27iIBsVdo064W6M=
+		j8qQRtnJ73LUf1tqseIUBPJ/mfI=
 		</data>
 		<key>Headers/VZBSmartInstallCardConfiguration.h</key>
 		<data>
@@ -135,6 +143,10 @@
 		<key>Headers/VZBSmartPlayOptions.h</key>
 		<data>
 		tItFMo7caZlTsZpyDPERLPOMoL8=
+		</data>
+		<key>Headers/VZBSmartPromptOptions.h</key>
+		<data>
+		3JhPlaIRbDhI7MqdL55TLNWpo78=
 		</data>
 		<key>Headers/VZBStatus.h</key>
 		<data>
@@ -166,7 +178,7 @@
 		</data>
 		<key>Headers/VZBVideoMetadata.h</key>
 		<data>
-		UH+JBjABUW1RXjP+I2KdWQ2hir0=
+		Txu2neT7jew6yJ+yOvM2i6krqDw=
 		</data>
 		<key>Headers/VZBVideoStatus.h</key>
 		<data>
@@ -190,7 +202,7 @@
 		</data>
 		<key>Headers/Vizbee.h</key>
 		<data>
-		TIJJDyDED2KGAp9nsAQLqDqmAlk=
+		TNwFsdEu8dPL/BqeEI2U4LZRquA=
 		</data>
 		<key>Headers/VizbeeKit.h</key>
 		<data>
@@ -198,7 +210,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		vcIFYtJBrnDd9lieIqQhqpz4r8w=
+		JJLcVj9dTvwPMRKUiBqd1wMv77Q=
 		</data>
 		<key>JSONSchema.json</key>
 		<data>
@@ -330,7 +342,7 @@
 		</data>
 		<key>VZBTitledImageView.nib</key>
 		<data>
-		fTP2AUCu9rdXknNxnwi97HBvLO0=
+		3++am4iGeFLZiZKc/JAvWVuS8fA=
 		</data>
 		<key>VZBUICastViews.storyboardc/CastContainerView.nib</key>
 		<data>
@@ -379,7 +391,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IJrv1RkoKw0DsjwSxjyfYAakZehtwSBjhM4ev88iXTk=
+			xVuhZ30x6pHmQyQRSlxPJBBbH81kLGmsV4lfQnmAdqw=
 			</data>
 		</dict>
 		<key>DeviceUtil.bundle/DeviceList.plist</key>
@@ -400,7 +412,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PML64fgnrLP1q5w7CXvmGdq4h8EAKmPFFQ3xqNiaUZ8=
+			Ziep4f4Be7kOxi3YK8VmBEm/9iMTi92o4P2iXY+AyfE=
 			</data>
 		</dict>
 		<key>Headers/VZBAppAdapterDelegate.h</key>
@@ -428,7 +440,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SAaJHuPWoz7dYaAgHGUCjpRhICeLa5p/1u8MO6wizP0=
+			yo1LV/+aCzi80ebmut/+Yz5pJL/B6UI3XevL+GYCz7g=
 			</data>
 		</dict>
 		<key>Headers/VZBCastAuthorizationCardConfiguration.h</key>
@@ -585,11 +597,25 @@
 			f1fAuHPG8njaP4YEB4GC7kB1T6dUuoIEEPyCZOZFegQ=
 			</data>
 		</dict>
+		<key>Headers/VZBSmartHandoffCardConfiguration.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			p7jzYuHEdhbVvNM6M4zlH5WLXOdmnrAEf7WQTgRIK30=
+			</data>
+		</dict>
+		<key>Headers/VZBSmartHandoffOptions.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ejO+x1/0Ki43uG5gNsxT9d2W9SRyrwchemRqG1nEXV8=
+			</data>
+		</dict>
 		<key>Headers/VZBSmartHelpOptions.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cEI03spdW1ygZI11KaV+2pKGntpoA5xq6yeEm8valgc=
+			/IVGvdzeRsm8Q1ylBJavdMWnm61BJFlW1k6Ykaz2IPA=
 			</data>
 		</dict>
 		<key>Headers/VZBSmartInstallCardConfiguration.h</key>
@@ -604,6 +630,13 @@
 			<key>hash2</key>
 			<data>
 			WSdDrL0WBwIMOJy4+YVG3E7Ow8O2hVbPzXQiYgcymXo=
+			</data>
+		</dict>
+		<key>Headers/VZBSmartPromptOptions.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WOvi0kfZMmRMy3fbtaFvzTL5ktXBws2i7dOO+Anmqhg=
 			</data>
 		</dict>
 		<key>Headers/VZBStatus.h</key>
@@ -659,7 +692,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			d2lNcSM8uEKnhajzsHfyXDcKaPN0mB/XKgCUkX4Dfxc=
+			b8EJh4eBWwx0k6lttAjZkSNn7Uh67QNZhc2aj/cls04=
 			</data>
 		</dict>
 		<key>Headers/VZBVideoStatus.h</key>
@@ -701,7 +734,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EdwqD8TeehHSy8ktCKLmMQNRdR/GG8aQc8wTmcEcwJs=
+			Fyx2wq6GWFKoc1dSvyq2Iv2qnFl1S0SHX/jHZuwZ8LM=
 			</data>
 		</dict>
 		<key>Headers/VizbeeKit.h</key>
@@ -939,7 +972,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4iOzzn12V7KcuiVFMi6RqW9ZiIDETxRWMhjVHMbtnR4=
+			N5a4RaAnQWgiJwLAu0reUVYpjjziBQm/fwUezmvLX6I=
 			</data>
 		</dict>
 		<key>VZBUICastViews.storyboardc/CastContainerView.nib</key>

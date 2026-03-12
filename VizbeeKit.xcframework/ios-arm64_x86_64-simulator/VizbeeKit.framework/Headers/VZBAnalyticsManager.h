@@ -21,6 +21,7 @@ typedef NS_ENUM(NSUInteger, VZBAnalyticsEventType) {
     // smart prompt
     VZBAnalyticsEventTypeCastIntroductionCardShown,
     VZBAnalyticsEventTypeSmartInstallCardShown,
+    VZBAnalyticsEventTypeSmartHandoffCardShown,
     
     // device selection
     VZBAnalyticsEventTypeCastIconDeviceSelectionCardShown,
@@ -39,7 +40,7 @@ typedef NS_ENUM(NSUInteger, VZBAnalyticsEventType) {
 @protocol VZBAnalyticsDelegate<NSObject>
 
 -(void) onAnalyticsEvent:(VZBAnalyticsEventType) event
-                withAttrs:(NSDictionary*) attrs;
+               withAttrs:(NSDictionary*) attrs;
 
 @end
 

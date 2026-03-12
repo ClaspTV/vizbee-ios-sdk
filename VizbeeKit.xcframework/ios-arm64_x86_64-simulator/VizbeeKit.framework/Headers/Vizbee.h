@@ -14,6 +14,7 @@
 #import "VZBSmartPlayOptions.h"
 
 #import "VZBSmartHelpOptions.h"
+#import "VZBSmartPromptOptions.h"
 
 #import "VZBAppAdapterDelegate.h"
 #import "VZBAuthenticationDelegate.h"
@@ -71,14 +72,23 @@
       andVizbeeOptions:(VZBOptions * _Nonnull)options;
 
 /**
- * @brief 
+ * @brief Start Vizbee SDK using the provided application ID
+ *
+ * @param appID must be the unique string ID provided by Vizbee.
+ * @param appAdapterDelegate required for the VizbeeSDK to interface with host application
+ * @param completion called when initialization completes; receives a non-nil NSError on failure, nil on success
  */
 +(void) startWithAppID:(NSString *)appID
  andAppAdapterDelegate:(id<VZBAppAdapterDelegate>)appAdapterDelegate
             completion:(void (^)(NSError* failure))completion;
 
 /**
- * @brief
+ * @brief Start Vizbee SDK using the provided application ID
+ *
+ * @param appID must be the unique string ID provided by Vizbee.
+ * @param appAdapterDelegate required for the VizbeeSDK to interface with host application
+ * @param options must be a VZBOptions object with configurable SDK options
+ * @param completion called when initialization completes; receives a non-nil NSError on failure, nil on success
  */
 +(void) startWithAppID:(NSString * _Nonnull)appID
     appAdapterDelegate:(id<VZBAppAdapterDelegate> _Nonnull)appAdapterDelegate
@@ -117,6 +127,29 @@
  * @return UIConfiguration object if SDK is initialized, nil otherwise
  */
 +(VZBUIConfiguration* _Nullable) getUIConfiguration;
+
+#pragma mark - SmartPrompt
+
+/**
+ * 'smartPrompt:' API is used to show smart prompts like
+ * ‘SmartInstall’ or ‘SmartHandoff’ in-app messages to the user.
+ *
+ *  @param presentingViewController used to present the smart prompt card
+ *  @return YES if the flow was triggered, NO otherwise
+ */
++(BOOL) smartPrompt:(UIViewController *_Nonnull)presentingViewController;
+
+/**
+ * 'smartPromptWithOptions:presentingViewController:' API is used to show
+ * smart prompts like ‘SmartInstall’ or ‘SmartHandoff’ in-app
+ * messages to the user, with fine-grained control over which subflows run.
+ *
+ *  @param smartPromptOptions options controlling which subflows are active
+ *  @param presentingViewController used to present the smart prompt card
+ *  @return YES if the flow was triggered, NO otherwise
+ */
++(BOOL) smartPromptWithOptions:(VZBSmartPromptOptions *_Nonnull)smartPromptOptions
+      presentingViewController:(UIViewController *_Nonnull)presentingViewController;
 
 #pragma mark - SmartHelp
 

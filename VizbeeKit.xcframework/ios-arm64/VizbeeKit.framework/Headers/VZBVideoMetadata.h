@@ -31,6 +31,22 @@
 @property (nonatomic, strong) NSURL* imageURL;
 
 //----------------------------------
+#pragma mark - Deeplink
+//----------------------------------
+
+/**
+ * Deeplink URI for directly launching the video on the target device.
+ *
+ * @b This is the preferred way to identify video content. When provided, the target device can use it to navigate directly to and play the content without needing to resolve it from other metadata fields.
+ *
+ * If a deeplink is not available, provide sufficient metadata (@c guid, @c title,
+ * @c subTitle, @c imageURL, etc.) so the receiver can resolve the content instead.
+ *
+ * Example: @c @"myapp://video/12345"
+ */
+@property (nonatomic, copy) NSString* deeplink;
+
+//----------------------------------
 #pragma mark - LIVE or VOD
 //----------------------------------
 
