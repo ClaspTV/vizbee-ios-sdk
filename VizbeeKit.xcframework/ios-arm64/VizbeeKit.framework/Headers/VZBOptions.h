@@ -53,10 +53,4 @@
  */
 @property (nonatomic, strong) NSDictionary * _Nullable customMetricsAttributes;
 
-/**
- * Optional locale to override the SDK display language.
- * If not set, the en-US is used as default.
- */
-@property (nonatomic, strong) NSLocale * _Nullable locale;
-
 @end
