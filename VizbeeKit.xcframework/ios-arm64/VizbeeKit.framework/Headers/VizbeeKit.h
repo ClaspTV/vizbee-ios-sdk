@@ -66,6 +66,18 @@ FOUNDATION_EXPORT const unsigned char VizbeeKitVersionString[];
 #import <VizbeeKit/VZBUICastContainerViewController.h>
 #import <VizbeeKit/VZBCastBarViewController.h>
 
+#import <VizbeeKit/UIColor+Vizbee.h>
+
+#import <VizbeeKit/VZBCardIdentifiers.h>
+#import <VizbeeKit/VZBCardViewModel.h>
+#import <VizbeeKit/VZBDeviceStatusCardViewModel.h>
+#import <VizbeeKit/VZBAppInstallCardViewModel.h>
+#import <VizbeeKit/VZBManualAppInstallCardViewModel.h>
+#import <VizbeeKit/VZBPairingCardViewModel.h>
+#import <VizbeeKit/VZBUICard.h>
+#import <VizbeeKit/VZBComponentStyling.h>
+#import <VizbeeKit/VZBCardsRegistry.h>
+
 #import <VizbeeKit/VZBError.h>
 
 #import <VizbeeKit/VZBMetricsEventPublisher.h>
