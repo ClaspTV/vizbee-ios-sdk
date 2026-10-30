@@ -326,16 +326,6 @@ didRegisterForRemoteNotificationsWithDeviceToken:(NSData* _Nonnull)deviceToken;
 +(void) startActiveDiscovery;
 +(void) stopActiveDiscovery;
 
-#pragma mark - Localization
-
-/// Sets the locale used for SDK UI strings (card titles, subtitles, buttons, etc.).
-/// If not called, defaults to en-US.
-+ (void)setLocale:(nonnull NSLocale *)locale;
-
-/// Returns the locale currently used for SDK UI strings.
-/// If +setLocale: was not called, returns en-US.
-+ (nonnull NSLocale *)getLocale;
-
 //----------------------------------
 #pragma mark - Internal Use Only
 //----------------------------------
