@@ -57,6 +57,12 @@ static NSString * const kVZBAcc_CastButton_Connected_Hint    = @"acc_castButton_
 static NSString * const kVZBAcc_CastButton_Disconnected_Hint = @"acc_castButton_disconnected_hint";
 
 // ---------------------------------------------------------------------------
+#pragma mark - Card navigation bar
+// ---------------------------------------------------------------------------
+
+static NSString * const kVZBAcc_NavigationBar_CloseButton_Label = @"acc_navigationBar_closeButton_label";
+
+// ---------------------------------------------------------------------------
 #pragma mark - Common UI classes  (maps to VZBCommonThemeConfig "classes" section)
 // ---------------------------------------------------------------------------
 
